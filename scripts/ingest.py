@@ -1,5 +1,5 @@
 # scripts/ingest.py
-import os, re, json, time, hashlib, feedparser, requests, random
+import json, re, time, hashlib, random, feedparser, requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, urljoin, quote
 from datetime import datetime, timezone, timedelta
@@ -8,14 +8,16 @@ from requests.exceptions import RequestException, ChunkedEncodingError, Connecti
 
 INSIGHTS_PATH = "public/data/insights.json"
 
-# ---- Config ----
+# -------- Config --------
 WINDOW_DAYS = 365
 CUTOFF = datetime.now(timezone.utc) - timedelta(days=WINDOW_DAYS)
 
 HTTP_TIMEOUT = 18
-SLEEP_BETWEEN_REQUESTS = 0.4      # politeness delay
+SLEEP_BETWEEN_REQUESTS = 0.4
 MAX_RETRIES = 4
-BACKOFF_BASE = 0.8                 # seconds, exponential backoff
+BACKOFF_BASE = 0.8
+
+UA = "CI-App/1.0 (+github-actions; contact: ci-bot@noreply)"
 
 COMPETITOR_MAP = {
   "isnetworld": "ISNetworld", "isn": "ISNetworld",
@@ -43,7 +45,7 @@ SOURCES = [
    "article_path": r"^/en/blog/.+"
   },
 
-  # KPA — keep Press only
+  # KPA — Press only
   {"type":"listing","name":"KPA Press",
    "url":"https://kpa.io/press/",
    "allow_path": r"^/press",
@@ -65,34 +67,28 @@ SOURCES = [
    "require_news_category": True
   },
 ]
+# ------------------------
 
-
-# ---- HTTP helpers ----
-UA = "CI-App/1.0 (+github-actions; contact: ci-bot@noreply)"
-
+# -------- HTTP helpers --------
 def sleep_polite():
   time.sleep(SLEEP_BETWEEN_REQUESTS + random.random() * 0.2)
 
 def fetch_text(url, expect_xml=False):
-  """GET with retries, exponential backoff, custom UA. Returns response.text or None."""
+  """GET with retries/backoff. Returns response.text or None."""
   for attempt in range(1, MAX_RETRIES + 1):
     try:
       sleep_polite()
       r = requests.get(url, headers={"User-Agent": UA}, timeout=HTTP_TIMEOUT)
       r.raise_for_status()
-      # Some hosts close abruptly on first attempt; verify minimal content
-      if expect_xml and "<rss" not in r.text[:2000] and "<feed" not in r.text[:2000]:
-        # Not strictly required, but helps detect gate pages
-        pass
       return r.text
     except (RemoteDisconnected, ChunkedEncodingError, ReqConnError, RequestException) as e:
       if attempt == MAX_RETRIES:
         print(f"[warn] fetch failed after retries: {url} :: {e}")
         return None
-      backoff = BACKOFF_BASE * (2 ** (attempt - 1))
-      time.sleep(backoff)
+      time.sleep(BACKOFF_BASE * (2 ** (attempt - 1)))
   return None
 
+# -------- Utils --------
 def canonical(u: str) -> str:
   u = (u or "").strip()
   if not u: return ""
@@ -144,83 +140,45 @@ def parse_dt_guess(entry) -> datetime:
       return datetime.fromtimestamp(time.mktime(v), tz=timezone.utc)
   return datetime.now(timezone.utc)
 
-def extract_article_meta(html):
-  soup = BeautifulSoup(html, "html.parser")
-  title = (soup.find("meta", property="og:title") or {}).get("content") or (soup.title.string if soup.title else "") or ""
-  desc = (soup.find("meta", property="og:description") or {}).get("content") or (soup.find("meta", attrs={"name":"description"}) or {}).get("content") or ""
-  dt = None
-  for sel, attr in (('meta[property="article:published_time"]',"content"),
-                    ('meta[name="pubdate"]',"content"),
-                    ('time[datetime]',"datetime")):
-    el = soup.select_one(sel)
-    if el and el.get(attr):
-      v = el.get(attr)
-      try:
-        if v.endswith("Z"): v = v.replace("Z","+00:00")
-        dt = datetime.fromisoformat(v)
-        if not dt.tzinfo: dt = dt.replace(tzinfo=timezone.utc)
-        break
-      except Exception:
-        pass
-  if not dt:
-    dt = datetime.now(timezone.utc)
-  return title.strip(), desc.strip(), dt
-
 def path_ok(path: str, rx: re.Pattern|None) -> bool:
   return bool(rx.search(path)) if rx else True
 
 def looks_like_article(link: str, soup: BeautifulSoup) -> bool:
-  # strong signals
   og_type = soup.find("meta", {"property":"og:type"})
   if og_type and og_type.get("content","").lower() == "article":
     return True
   if soup.find("meta", {"property":"article:published_time"}) or soup.find("time"):
     return True
-
-  def text_contains_news(s):
-    return "news" in (s or "").strip().lower()
-
-def vendorpm_is_news_article(soup):
-    """
-    True if an article page on vendorpm.com is categorized as 'News'.
-    Tries common patterns found on VendorPM (class names can change, so check broadly).
-    """
-    # obvious labels like: <div class="blog-category-label">News</div>
-    for sel in [
-        ".blog-category-label", ".blog-category", ".category", "[class*=category]"
-    ]:
-        for el in soup.select(sel):
-            if text_contains_news(el.get_text()):
-                return True
-
-    # sometimes category is in meta tags
-    meta_props = [
-        ('meta[property="article:section"]', "content"),
-        ('meta[name="section"]', "content"),
-        ('meta[name="category"]', "content"),
-        ('meta[property="article:tag"]', "content"),
-    ]
-    for css, attr in meta_props:
-        el = soup.select_one(css)
-        if el and text_contains_news(el.get(attr, "")):
-            return True
-
-    return False
-
-
-  # url-based signals
   path = urlparse(link).path.rstrip("/")
   if re.search(r"/\d{4}/\d{1,2}/\d{1,2}/", path):  # /YYYY/MM/DD/
     return True
-  if re.search(r"/\d{4}/", path):  # /YYYY/
+  if re.search(r"/\d{4}/", path):                # /YYYY/
     return True
   slug = path.split("/")[-1]
-  if "-" in slug and len(slug) >= 6:  # has a sluggy last segment
+  if "-" in slug and len(slug) >= 6:
     return True
   return False
 
+def text_contains_news(s):
+  return "news" in (s or "").strip().lower()
 
-# ---- Collectors ----
+def vendorpm_is_news_article(soup: BeautifulSoup) -> bool:
+  for sel in [".blog-category-label", ".blog-category", ".category", "[class*=category]"]:
+    for el in soup.select(sel):
+      if text_contains_news(el.get_text()):
+        return True
+  for css, attr in [
+    ('meta[property="article:section"]', "content"),
+    ('meta[name="section"]', "content"),
+    ('meta[name="category"]', "content"),
+    ('meta[property="article:tag"]', "content"),
+  ]:
+    el = soup.select_one(css)
+    if el and text_contains_news(el.get(attr, "")):
+      return True
+  return False
+
+# -------- Collectors --------
 def collect_google_news():
   for q in GOOGLE_NEWS_QUERIES:
     url = f"https://news.google.com/rss/search?q={quote(q)}&hl=en-US&gl=US&ceid=US:en"
@@ -239,7 +197,7 @@ def collect_google_news():
       tags = classify_tags(title, summary, link)
       sev, score = severity_from(tags)
       yield {
-        "id": to_id(link, title, dt.isoformat()),
+        "id": to_id(link, title or link, dt.isoformat()),
         "competitor": comp,
         "title": title or link,
         "summary": summary[:500],
@@ -306,19 +264,16 @@ def collect_listing(src, max_links=40):
       continue
 
     path = urlparse(href).path.rstrip("/")
-    # must be under the allowed section
     if allow_rx and not path_ok(path, allow_rx):
       continue
-    # must NOT equal the listing root (avoid base pages)
-    if path == listing_path or path == listing_path.rstrip("/"):
+    if path == listing_path:
       continue
-    # must match article pattern (e.g., add a slug)
     if article_rx and not path_ok(path, article_rx):
       continue
 
     candidates.append(canonical(href))
 
-  # de-dupe and cap
+  # de-dupe & cap
   seen = set()
   links = []
   for h in candidates:
@@ -328,7 +283,7 @@ def collect_listing(src, max_links=40):
     if len(links) >= max_links:
       break
 
-    # 2) fetch each article and keep only pages that look like an article
+  # 2) fetch each article and keep only pages that look like an article
   for link in links:
     art_html = fetch_text(link)
     if not art_html:
@@ -336,15 +291,12 @@ def collect_listing(src, max_links=40):
       continue
 
     art_soup = BeautifulSoup(art_html, "html.parser")
-    # Must look like an article (publish time, og:type=article, date-like URL, etc.)
     if not looks_like_article(link, art_soup):
       continue
 
-    # VendorPM: require category News
     if src.get("require_news_category"):
       netloc = urlparse(link).netloc
       if "vendorpm.com" in netloc and not vendorpm_is_news_article(art_soup):
-        # skip non-News categories (e.g., case studies, product, generic blog)
         continue
 
     title = (art_soup.find("meta", {"property":"og:title"}) or {}).get("content") \
@@ -365,7 +317,8 @@ def collect_listing(src, max_links=40):
         try:
           if v.endswith("Z"): v = v.replace("Z","+00:00")
           dt = datetime.fromisoformat(v)
-          if not dt.tzinfo: dt = dt.replace(tzinfo=timezone.utc)
+          if not dt.tzinfo:
+            dt = dt.replace(tzinfo=timezone.utc)
           break
         except Exception:
           pass
@@ -392,8 +345,7 @@ def collect_listing(src, max_links=40):
       "severity": sev,
     }
 
-
-# ---- Orchestrate ----
+# -------- Orchestrate --------
 def load_existing(path):
   try:
     with open(path) as f:
@@ -411,7 +363,8 @@ if __name__ == "__main__":
   # Google News
   try:
     for item in collect_google_news():
-      if item["id"] in existing_map or canonical(item["sourceUrl"]) in seen_urls: continue
+      if item["id"] in existing_map or canonical(item["sourceUrl"]) in seen_urls:
+        continue
       out.append(item); seen_urls.add(canonical(item["sourceUrl"])); new_count += 1
   except Exception as e:
     print(f"[warn] google news collector failed: {e}")
@@ -420,7 +373,8 @@ if __name__ == "__main__":
   for src in [s for s in SOURCES if s["type"]=="rss"]:
     try:
       for item in collect_rss(src):
-        if item["id"] in existing_map or canonical(item["sourceUrl"]) in seen_urls: continue
+        if item["id"] in existing_map or canonical(item["sourceUrl"]) in seen_urls:
+          continue
         out.append(item); seen_urls.add(canonical(item["sourceUrl"])); new_count += 1
     except Exception as e:
       print(f"[warn] rss collector failed: {src['name']} :: {e}")
@@ -429,7 +383,8 @@ if __name__ == "__main__":
   for src in [s for s in SOURCES if s["type"]=="listing"]:
     try:
       for item in collect_listing(src):
-        if item["id"] in existing_map or canonical(item["sourceUrl"]) in seen_urls: continue
+        if item["id"] in existing_map or canonical(item["sourceUrl"]) in seen_urls:
+          continue
         out.append(item); seen_urls.add(canonical(item["sourceUrl"])); new_count += 1
     except Exception as e:
       print(f"[warn] listing collector failed: {src['name']} :: {e}")
