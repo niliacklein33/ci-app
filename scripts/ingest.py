@@ -35,13 +35,39 @@ GOOGLE_NEWS_QUERIES = [
 SOURCES = [
   # RSS
   {"type":"rss","name":"Business Wire","url":"https://www.businesswire.com/portal/site/home/news/rss/"},
-  # Listing pages
-  {"type":"listing","name":"ISN Blog","url":"https://www.isnetworld.com/en/blog", "allow_path": r"/en/blog"},
-  {"type":"listing","name":"KPA Press","url":"https://kpa.io/press/","allow_path": r"/press"},
-  {"type":"listing","name":"KPA Resources","url":"https://kpa.io/workplace-compliance-news-resources/","allow_path": r"/workplace-compliance-news-resources"},
-  {"type":"listing","name":"Avetta News","url":"https://www.avetta.com/resources/company-news","allow_path": r"/resources/company-news"},
-  {"type":"listing","name":"VendorPM Blog","url":"https://www.vendorpm.com/blog","allow_path": r"/blog"},
+
+  # Listing pages + strict article path rules
+  {"type":"listing","name":"ISN Blog",
+   "url":"https://www.isnetworld.com/en/blog",
+   "allow_path": r"^/en/blog",
+   "article_path": r"^/en/blog/.+"
+  },
+
+  {"type":"listing","name":"KPA Press",
+   "url":"https://kpa.io/press/",
+   "allow_path": r"^/press",
+   "article_path": r"^/press/.+"
+  },
+
+  {"type":"listing","name":"KPA Resources",
+   "url":"https://kpa.io/workplace-compliance-news-resources/",
+   "allow_path": r"^/workplace-compliance-news-resources",
+   "article_path": r"^/workplace-compliance-news-resources/.+"
+  },
+
+  {"type":"listing","name":"Avetta News",
+   "url":"https://www.avetta.com/resources/company-news",
+   "allow_path": r"^/resources/company-news",
+   "article_path": r"^/resources/company-news/.+"
+  },
+
+  {"type":"listing","name":"VendorPM Blog",
+   "url":"https://www.vendorpm.com/blog",
+   "allow_path": r"^/blog",
+   "article_path": r"^/blog/.+"
+  },
 ]
+
 
 # ---- HTTP helpers ----
 UA = "CI-App/1.0 (+github-actions; contact: ci-bot@noreply)"
@@ -142,6 +168,29 @@ def extract_article_meta(html):
     dt = datetime.now(timezone.utc)
   return title.strip(), desc.strip(), dt
 
+def path_ok(path: str, rx: re.Pattern|None) -> bool:
+  return bool(rx.search(path)) if rx else True
+
+def looks_like_article(link: str, soup: BeautifulSoup) -> bool:
+  # strong signals
+  og_type = soup.find("meta", {"property":"og:type"})
+  if og_type and og_type.get("content","").lower() == "article":
+    return True
+  if soup.find("meta", {"property":"article:published_time"}) or soup.find("time"):
+    return True
+
+  # url-based signals
+  path = urlparse(link).path.rstrip("/")
+  if re.search(r"/\d{4}/\d{1,2}/\d{1,2}/", path):  # /YYYY/MM/DD/
+    return True
+  if re.search(r"/\d{4}/", path):  # /YYYY/
+    return True
+  slug = path.split("/")[-1]
+  if "-" in slug and len(slug) >= 6:  # has a sluggy last segment
+    return True
+  return False
+
+
 # ---- Collectors ----
 def collect_google_news():
   for q in GOOGLE_NEWS_QUERIES:
@@ -205,49 +254,101 @@ def collect_rss(src):
       "severity": sev,
     }
 
-def collect_listing(src, max_links=35):
+def collect_listing(src, max_links=40):
   html = fetch_text(src["url"])
   if not html:
     print(f"[warn] listing fetch failed: {src['name']} :: {src['url']}")
     return
+
   base = f'{urlparse(src["url"]).scheme}://{urlparse(src["url"]).netloc}'
   soup = BeautifulSoup(html, "html.parser")
-  allow_rx = re.compile(src.get("allow_path", ""), re.I) if src.get("allow_path") else None
 
-  # Collect candidate links
+  allow_rx = re.compile(src.get("allow_path", ""), re.I) if src.get("allow_path") else None
+  article_rx = re.compile(src.get("article_path", ""), re.I) if src.get("article_path") else None
+  listing_path = urlparse(src["url"]).path.rstrip("/")
+
+  # 1) gather candidate links on the listing page
   candidates = []
   for a in soup.find_all("a", href=True):
     href = a.get("href")
-    if href.startswith("/"): href = urljoin(base, href)
-    if not href.startswith(base): continue
-    path = urlparse(href).path
-    if allow_rx and not allow_rx.search(path): continue
+    if href.startswith("/"):
+      href = urljoin(base, href)
+    if not href.startswith(base):
+      continue
+
+    path = urlparse(href).path.rstrip("/")
+    # must be under the allowed section
+    if allow_rx and not path_ok(path, allow_rx):
+      continue
+    # must NOT equal the listing root (avoid base pages)
+    if path == listing_path or path == listing_path.rstrip("/"):
+      continue
+    # must match article pattern (e.g., add a slug)
+    if article_rx and not path_ok(path, article_rx):
+      continue
+
     candidates.append(canonical(href))
 
-  # Dedup & cap
+  # de-dupe and cap
   seen = set()
   links = []
   for h in candidates:
     if h not in seen:
       seen.add(h)
       links.append(h)
-    if len(links) >= max_links: break
+    if len(links) >= max_links:
+      break
 
+  # 2) fetch each article and keep only pages that look like an article
   for link in links:
-    art = fetch_text(link)
-    if not art:
+    art_html = fetch_text(link)
+    if not art_html:
       print(f"[warn] article fetch failed: {link}")
       continue
-    title, desc, dt = extract_article_meta(art)
-    if not within_window(dt): continue
+
+    art_soup = BeautifulSoup(art_html, "html.parser")
+    if not looks_like_article(link, art_soup):
+      # skip category/landing pages that slipped through
+      # (e.g., “Company News | Avetta”)
+      continue
+
+    title = (art_soup.find("meta", {"property":"og:title"}) or {}).get("content") \
+            or (art_soup.title.string if art_soup.title else "") \
+            or link
+    desc = (art_soup.find("meta", {"property":"og:description"}) or {}).get("content") \
+           or (art_soup.find("meta", attrs={"name":"description"}) or {}).get("content") \
+           or ""
+
+    # date
+    dt = None
+    for sel, attr in (('meta[property="article:published_time"]',"content"),
+                      ('meta[name="pubdate"]',"content"),
+                      ('time[datetime]',"datetime")):
+      el = art_soup.select_one(sel)
+      if el and el.get(attr):
+        v = el.get(attr)
+        try:
+          if v.endswith("Z"): v = v.replace("Z","+00:00")
+          dt = datetime.fromisoformat(v)
+          if not dt.tzinfo: dt = dt.replace(tzinfo=timezone.utc)
+          break
+        except Exception:
+          pass
+    if not dt:
+      dt = datetime.now(timezone.utc)
+
+    if not within_window(dt):
+      continue
+
     comp = pick_competitor(f"{title} {desc}", link)
     tags = classify_tags(title, desc, link)
     sev, score = severity_from(tags)
+
     yield {
-      "id": to_id(link, title or link, dt.isoformat()),
+      "id": to_id(link, title[:300], dt.isoformat()),
       "competitor": comp,
-      "title": (title or link)[:300],
-      "summary": (desc or "")[:500],
+      "title": title[:300],
+      "summary": desc[:500],
       "sourceName": urlparse(link).netloc,
       "sourceUrl": canonical(link),
       "date": dt.isoformat(),
