@@ -36,35 +36,33 @@ SOURCES = [
   # RSS
   {"type":"rss","name":"Business Wire","url":"https://www.businesswire.com/portal/site/home/news/rss/"},
 
-  # Listing pages + strict article path rules
+  # ISN
   {"type":"listing","name":"ISN Blog",
    "url":"https://www.isnetworld.com/en/blog",
    "allow_path": r"^/en/blog",
    "article_path": r"^/en/blog/.+"
   },
 
+  # KPA — keep Press only
   {"type":"listing","name":"KPA Press",
    "url":"https://kpa.io/press/",
    "allow_path": r"^/press",
    "article_path": r"^/press/.+"
   },
 
-  {"type":"listing","name":"KPA Resources",
-   "url":"https://kpa.io/workplace-compliance-news-resources/",
-   "allow_path": r"^/workplace-compliance-news-resources",
-   "article_path": r"^/workplace-compliance-news-resources/.+"
-  },
-
+  # Avetta
   {"type":"listing","name":"Avetta News",
    "url":"https://www.avetta.com/resources/company-news",
    "allow_path": r"^/resources/company-news",
    "article_path": r"^/resources/company-news/.+"
   },
 
+  # VendorPM — only News category
   {"type":"listing","name":"VendorPM Blog",
    "url":"https://www.vendorpm.com/blog",
    "allow_path": r"^/blog",
-   "article_path": r"^/blog/.+"
+   "article_path": r"^/blog/.+",
+   "require_news_category": True
   },
 ]
 
@@ -178,6 +176,37 @@ def looks_like_article(link: str, soup: BeautifulSoup) -> bool:
     return True
   if soup.find("meta", {"property":"article:published_time"}) or soup.find("time"):
     return True
+
+  def text_contains_news(s):
+    return "news" in (s or "").strip().lower()
+
+def vendorpm_is_news_article(soup):
+    """
+    True if an article page on vendorpm.com is categorized as 'News'.
+    Tries common patterns found on VendorPM (class names can change, so check broadly).
+    """
+    # obvious labels like: <div class="blog-category-label">News</div>
+    for sel in [
+        ".blog-category-label", ".blog-category", ".category", "[class*=category]"
+    ]:
+        for el in soup.select(sel):
+            if text_contains_news(el.get_text()):
+                return True
+
+    # sometimes category is in meta tags
+    meta_props = [
+        ('meta[property="article:section"]', "content"),
+        ('meta[name="section"]', "content"),
+        ('meta[name="category"]', "content"),
+        ('meta[property="article:tag"]', "content"),
+    ]
+    for css, attr in meta_props:
+        el = soup.select_one(css)
+        if el and text_contains_news(el.get(attr, "")):
+            return True
+
+    return False
+
 
   # url-based signals
   path = urlparse(link).path.rstrip("/")
@@ -299,7 +328,7 @@ def collect_listing(src, max_links=40):
     if len(links) >= max_links:
       break
 
-  # 2) fetch each article and keep only pages that look like an article
+    # 2) fetch each article and keep only pages that look like an article
   for link in links:
     art_html = fetch_text(link)
     if not art_html:
@@ -307,10 +336,16 @@ def collect_listing(src, max_links=40):
       continue
 
     art_soup = BeautifulSoup(art_html, "html.parser")
+    # Must look like an article (publish time, og:type=article, date-like URL, etc.)
     if not looks_like_article(link, art_soup):
-      # skip category/landing pages that slipped through
-      # (e.g., “Company News | Avetta”)
       continue
+
+    # VendorPM: require category News
+    if src.get("require_news_category"):
+      netloc = urlparse(link).netloc
+      if "vendorpm.com" in netloc and not vendorpm_is_news_article(art_soup):
+        # skip non-News categories (e.g., case studies, product, generic blog)
+        continue
 
     title = (art_soup.find("meta", {"property":"og:title"}) or {}).get("content") \
             or (art_soup.title.string if art_soup.title else "") \
@@ -356,6 +391,7 @@ def collect_listing(src, max_links=40):
       "impact_score": round(score, 2),
       "severity": sev,
     }
+
 
 # ---- Orchestrate ----
 def load_existing(path):
