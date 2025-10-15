@@ -1,5 +1,283 @@
 [
   {
+    "id": "28b21f5fc5a5",
+    "competitor": "VendorPM",
+    "title": "Voices of PropTech Episode 4 Recap: Martin Kelly on Building Blueprint and the Future of Industry Collaboration | VendorPM",
+    "summary": "Key takeaways from the latest episode of VendorPM's Voices of PropTech podcast with Martin Kelly, President of Blueprint.",
+    "sourceName": "www.vendorpm.com",
+    "sourceUrl": "https://www.vendorpm.com/blog-posts/voices-of-proptech-episode-4-recap-martin-kelly",
+    "date": "2025-10-15T04:21:55.466726+00:00",
+    "tags": [],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "9ef175c2fa6a",
+    "competitor": "VendorPM",
+    "title": "\u00e2\u0080\u009cIt\u00e2\u0080\u0099s About Bringing People on the Journey\u00e2\u0080\u009d Jason Long on Rolling Out VendorPM | VendorPM",
+    "summary": "",
+    "sourceName": "www.vendorpm.com",
+    "sourceUrl": "https://www.vendorpm.com/blog-posts/its-about-bringing-people-on-the-journey-jason-long-on-rolling-out-vendorpm",
+    "date": "2025-10-15T04:21:36.858270+00:00",
+    "tags": [],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "cb9792c4e71d",
+    "competitor": "VendorPM",
+    "title": "VendorPM Earns 2025 Great Place To Work Certification\u00e2\u0084\u00a2 | VendorPM",
+    "summary": "",
+    "sourceName": "www.vendorpm.com",
+    "sourceUrl": "https://www.vendorpm.com/blog-posts/vendorpm-earns-2025-great-place-to-work-certification-tm",
+    "date": "2025-10-15T04:21:36.139826+00:00",
+    "tags": [],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "ef53b5aca011",
+    "competitor": "VendorPM",
+    "title": "Installing Electric Car Charging in Condos and Apartments in Chicago | VendorPM",
+    "summary": "Learn your rights and responsibilities with setting up electric vehicle charging in Chicago as a tenant or building manager in a condo or apartment!",
+    "sourceName": "www.vendorpm.com",
+    "sourceUrl": "https://www.vendorpm.com/blog-posts/installing-electric-car-charging-in-condos-and-apartments-in-chicago",
+    "date": "2025-10-15T04:21:35.428564+00:00",
+    "tags": [],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "d2ed04b1d80a",
+    "competitor": "VendorPM",
+    "title": "Installing Electric Vehicle Charging in Your Alberta Condo/Apartment | VendorPM",
+    "summary": "Charging your EV should be as smooth as refueling a regular car. Here's how to do it in Alberta.",
+    "sourceName": "www.vendorpm.com",
+    "sourceUrl": "https://www.vendorpm.com/blog-posts/installing-electric-vehicle-charging-in-your-alberta-condo-apartment",
+    "date": "2025-10-15T04:21:34.639109+00:00",
+    "tags": [],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "bbfa1b3d88ef",
+    "competitor": "VendorPM",
+    "title": "Installing Electric Car Charging in Condos or Apartments in Ontario | VendorPM",
+    "summary": "Electric car adoption is skyrocketing across North America! Learn about your rights and responsibilities as an owner, manager, or tenant when installing EV charging in your MURB.",
+    "sourceName": "www.vendorpm.com",
+    "sourceUrl": "https://www.vendorpm.com/blog-posts/installing-electric-car-charging-in-condos-or-apartments-in-ontario",
+    "date": "2025-10-15T04:21:33.951696+00:00",
+    "tags": [],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "dd7d491d1bc8",
+    "competitor": "VendorPM",
+    "title": "VendorPM - Blog",
+    "summary": "Stay up to date with the property management industry and discover commercial real estate articles and news from the VendorPM team!",
+    "sourceName": "www.vendorpm.com",
+    "sourceUrl": "https://www.vendorpm.com/blog",
+    "date": "2025-10-15T04:21:33.318507+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "e1d300e085f5",
+    "competitor": "Avetta",
+    "title": "Avetta | Building safe, sustainable, and secure workplaces for everyone",
+    "summary": "Join thousands of companies worldwide managing their compliance risk with Avetta. Prioritize workplace safety, sustainability, and efficiency on our industry-leading contractor risk management platform.",
+    "sourceName": "www.avetta.com",
+    "sourceUrl": "https://www.avetta.com/zh-cn/resources/company-news",
+    "date": "2025-10-15T04:21:31.850623+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "e694044f76bc",
+    "competitor": "Avetta",
+    "title": "Avetta | Building safe, sustainable, and secure workplaces for everyone",
+    "summary": "Join thousands of companies worldwide managing their compliance risk with Avetta. Prioritize workplace safety, sustainability, and efficiency on our industry-leading contractor risk management platform.",
+    "sourceName": "www.avetta.com",
+    "sourceUrl": "https://www.avetta.com/ja/resources/company-news",
+    "date": "2025-10-15T04:21:31.019667+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "ca9596f1360e",
+    "competitor": "Avetta",
+    "title": "Company News | Avetta",
+    "summary": "Stay updated with the latest news and announcements from Avetta. Explore our company news section for insights into product updates, partnerships, and more.",
+    "sourceName": "www.avetta.com",
+    "sourceUrl": "https://www.avetta.com/en-gb/resources/company-news",
+    "date": "2025-10-15T04:21:30.178999+00:00",
+    "tags": [
+      "Analytics",
+      "Announcement"
+    ],
+    "impact_score": 0.55,
+    "severity": "info"
+  },
+  {
+    "id": "5c94c48ec528",
+    "competitor": "Avetta",
+    "title": "Company News | Avetta",
+    "summary": "Stay updated with the latest news and announcements from Avetta. Explore our company news section for insights into product updates, partnerships, and more.",
+    "sourceName": "www.avetta.com",
+    "sourceUrl": "https://www.avetta.com/en-au/resources/company-news",
+    "date": "2025-10-15T04:21:27.387773+00:00",
+    "tags": [
+      "Analytics",
+      "Announcement"
+    ],
+    "impact_score": 0.55,
+    "severity": "info"
+  },
+  {
+    "id": "53d7d1452bf0",
+    "competitor": "Avetta",
+    "title": "Avetta | Building safe, sustainable, and secure workplaces for everyone",
+    "summary": "Join thousands of companies worldwide managing their compliance risk with Avetta. Prioritize workplace safety, sustainability, and efficiency on our industry-leading contractor risk management platform.",
+    "sourceName": "www.avetta.com",
+    "sourceUrl": "https://www.avetta.com/pt-br/resources/company-news",
+    "date": "2025-10-15T04:21:26.728391+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "784fe080a6e0",
+    "competitor": "Avetta",
+    "title": "Avetta | Building safe, sustainable, and secure workplaces for everyone",
+    "summary": "Join thousands of companies worldwide managing their compliance risk with Avetta. Prioritize workplace safety, sustainability, and efficiency on our industry-leading contractor risk management platform.",
+    "sourceName": "www.avetta.com",
+    "sourceUrl": "https://www.avetta.com/es-la/resources/company-news",
+    "date": "2025-10-15T04:21:25.964116+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "197e21f90492",
+    "competitor": "Avetta",
+    "title": "Avetta | Building safe, sustainable, and secure workplaces for everyone",
+    "summary": "Join thousands of companies worldwide managing their compliance risk with Avetta. Prioritize workplace safety, sustainability, and efficiency on our industry-leading contractor risk management platform.",
+    "sourceName": "www.avetta.com",
+    "sourceUrl": "https://www.avetta.com/de/resources/company-news",
+    "date": "2025-10-15T04:21:25.291745+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "ab50811961a5",
+    "competitor": "Avetta",
+    "title": "Avetta | Building safe, sustainable, and secure workplaces for everyone",
+    "summary": "Join thousands of companies worldwide managing their compliance risk with Avetta. Prioritize workplace safety, sustainability, and efficiency on our industry-leading contractor risk management platform.",
+    "sourceName": "www.avetta.com",
+    "sourceUrl": "https://www.avetta.com/fr-ca/resources/company-news",
+    "date": "2025-10-15T04:21:24.574722+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "e3a15766aefd",
+    "competitor": "Avetta",
+    "title": "Company News | Avetta",
+    "summary": "Stay updated with the latest news and announcements from Avetta. Explore our company news section for insights into product updates, partnerships, and more.",
+    "sourceName": "www.avetta.com",
+    "sourceUrl": "https://www.avetta.com/resources/company-news",
+    "date": "2025-10-15T04:21:23.686296+00:00",
+    "tags": [
+      "Analytics",
+      "Announcement"
+    ],
+    "impact_score": 0.55,
+    "severity": "info"
+  },
+  {
+    "id": "732c57f6e1e7",
+    "competitor": "KPA Flex",
+    "title": "Workplace Compliance News",
+    "summary": "Get the latest safety and workplace compliance news and resources from the federal, state, and local government levels.",
+    "sourceName": "kpa.io",
+    "sourceUrl": "https://kpa.io/workplace-compliance-news-resources",
+    "date": "2025-10-15T04:21:22.074153+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "2088bf2ab38e",
+    "competitor": "KPA Flex",
+    "title": "Federal Workplace Compliance News & Resources",
+    "summary": "Federal Workplace Compliance News & Resources",
+    "sourceName": "kpa.io",
+    "sourceUrl": "https://kpa.io/workplace-compliance-news-resources/federal-workplace-compliance-news-resources",
+    "date": "2025-10-15T04:21:21.374798+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "eb3fafb94f9b",
+    "competitor": "KPA Flex",
+    "title": "Press",
+    "summary": "Stay up to date with KPA company news and media coverage. Browse recent interviews and features articles showcasing KPA technology and expertise.",
+    "sourceName": "kpa.io",
+    "sourceUrl": "https://kpa.io/press",
+    "date": "2025-10-15T04:21:19.591498+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "78a9d529747b",
+    "competitor": "Avetta",
+    "title": "2025 Avetta Summit Series Arrives in Sydney to Help APAC Customers Achieve Confidence Beyond Compliance - The AI Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOalRaOXoxZ2ZXd2NBemVpOTFCUTUxMFFlT2dDbTNnY1FOQzR3SUthTWhFaVZPNW1oYkVrdVd5bU1qcjlaV0MxWTVDR21yTF9ocGpSWlRaZVIzV3hUWGJKODNzbjdrSzNXcURfSlRHN0dHUGVIMjdwM0ctZnc3QnVDem9NMmd4QzhQd2VkOV9WaFgtQ2FkWXpIOWJtX0J4dTNoMDZpRGs5Y3d5UTJVc1p0ZjlNWUZtSmsxYzF2bEpwTHdKdw?oc=5\" target=\"_blank\">2025 Avetta Summit Series Arrives in Sydney to Help APAC Customers Achieve Confidence Beyond Compliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The AI Journal</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOalRaOXoxZ2ZXd2NBemVpOTFCUTUxMFFlT2dDbTNnY1FOQzR3SUthTWhFaVZPNW1oYkVrdVd5bU1qcjlaV0MxWTVDR21yTF9ocGpSWlRaZVIzV3hUWGJKODNzbjdrSzNXcURfSlRHN0dHUGVIMjdwM0ctZnc3QnVDem9NMmd4QzhQd2VkOV9WaFgtQ2FkWXpIOWJtX0J4dTNoMDZpRGs5Y3d5UTJVc1p0ZjlNWUZtSmsxYzF2bEpwTHdKdw",
+    "date": "2025-10-14T22:45:25+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
     "id": "seed-1",
     "competitor": "ISNetworld",
     "title": "ISN announces enhanced Workers' Comp analytics for CA/AU",
@@ -14,5 +292,1324 @@
     ],
     "impact_score": 0.78,
     "severity": "watch"
+  },
+  {
+    "id": "5dec07c23d06",
+    "competitor": "Avetta",
+    "title": "New Avetta Research Reveals False Sense of Safety in Australia\u2019s High-Risk Industries - The AI Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkxkQmdjcEp6QXFtU0dmLVpBTFJNN3BqS3RlUEVFOG4zR1lnN0hWYzB3TGR5VGYwMGgxbWNTZWtRX0dvSmYzUlNmV3ZCQWktVkFSQXo2QWIxVmw1LTIyZ1BpY205N1U3bWtqdG0waVNqOS1rS0RKX1JibWZWRDVTU2xyVkxTLTY5V2VITXdJc1Y1TU52NGlTLUNXVUZBVjNnYzhqeS1zWkw?oc=5\" target=\"_blank\">New Avetta Research Reveals False Sense of Safety in Australia\u2019s High-Risk Industries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The AI Journal</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkxkQmdjcEp6QXFtU0dmLVpBTFJNN3BqS3RlUEVFOG4zR1lnN0hWYzB3TGR5VGYwMGgxbWNTZWtRX0dvSmYzUlNmV3ZCQWktVkFSQXo2QWIxVmw1LTIyZ1BpY205N1U3bWtqdG0waVNqOS1rS0RKX1JibWZWRDVTU2xyVkxTLTY5V2VITXdJc1Y1TU52NGlTLUNXVUZBVjNnYzhqeS1zWkw",
+    "date": "2025-10-13T22:50:55+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "cf1875bcc084",
+    "competitor": "Unknown",
+    "title": "Project of the Year Finalist and Best Airport/Transit: IAH Mickey Leland International Terminal D - Engineering News-Record",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNNVF0MWE3a09lMmlveXZ5VGNaQnM1UHBCaVBIZ3BHdmE2REpQWlRiM0dQR01KaXByWEg5LU1HbTh1dVpiRDRzVWFyRjZ3bG4tMkR3X0ljQl9WWlhyUzRKeUp3US1vd01xWkhtSXBINU1tb0pNOHlJUkszb0hETVJUWTg3MEo0RUFfRUZwVHZOUUZtUkt6dnFTWndESW02YjAtNnJqSXpfTDVKbElZX1NTUkxaZ3VMRzVDc2N5Y1RjXzlUYlBFc05Vb0pVSQ?oc=5\" target=\"_blank\">Project of the Year Finalist and Best Airport/Transit: IAH Mickey Leland International Terminal D</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engineering News-R",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNVF0MWE3a09lMmlveXZ5VGNaQnM1UHBCaVBIZ3BHdmE2REpQWlRiM0dQR01KaXByWEg5LU1HbTh1dVpiRDRzVWFyRjZ3bG4tMkR3X0ljQl9WWlhyUzRKeUp3US1vd01xWkhtSXBINU1tb0pNOHlJUkszb0hETVJUWTg3MEo0RUFfRUZwVHZOUUZtUkt6dnFTWndESW02YjAtNnJqSXpfTDVKbElZX1NTUkxaZ3VMRzVDc2N5Y1RjXzlUYlBFc05Vb0pVSQ",
+    "date": "2025-10-13T12:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "1b85f7fe3acd",
+    "competitor": "ISNetworld",
+    "title": "Vitro Flat Glass Partners with ISN\u00ae to Enhance Contractor Management and Help Improve Jobsite Safety - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd0hvX0VrZlVscHZrN0g3a3JCdHFrV0xkbnNkaXVtMV9qaFVVZU1sNGFZVEllTER1ajQ5b3ZYdll1bVI5anZUenBwcXNpWXE3Ni1US3VlWXd5bTBGTkx6TkloNlhsUzJhY2t6Sl90Y3M5bHozaUxPWUNsZGdEa1dxTFN4SU9VekdwMkxrSFM0X19xN1ItVTU4ZFNENVRNX0ZYN3NIZmZzRmdtb3pVQWVTckZFSVhCVlluOTVIVV9MdnlkalZPN3B3aEZMMWwtSnhuOUY3VW5UTlpTdVVjQ2xxU1hQbDlwV1k0V3FhUw?oc=5\" target=\"_blank\">Vitro Flat Glass Partners with ISN\u00ae to Enhance Contractor Management and Help Improve Jobsite Safety</a>&nbsp",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd0hvX0VrZlVscHZrN0g3a3JCdHFrV0xkbnNkaXVtMV9qaFVVZU1sNGFZVEllTER1ajQ5b3ZYdll1bVI5anZUenBwcXNpWXE3Ni1US3VlWXd5bTBGTkx6TkloNlhsUzJhY2t6Sl90Y3M5bHozaUxPWUNsZGdEa1dxTFN4SU9VekdwMkxrSFM0X19xN1ItVTU4ZFNENVRNX0ZYN3NIZmZzRmdtb3pVQWVTckZFSVhCVlluOTVIVV9MdnlkalZPN3B3aEZMMWwtSnhuOUY3VW5UTlpTdVVjQ2xxU1hQbDlwV1k0V3FhUw",
+    "date": "2025-10-09T14:12:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "dc8f1fd59e79",
+    "competitor": "ISNetworld",
+    "title": "Blog | ISNetworld",
+    "summary": "",
+    "sourceName": "www.isnetworld.com",
+    "sourceUrl": "https://www.isnetworld.com/en/blog",
+    "date": "2025-10-09T08:00:00-05:00",
+    "tags": [],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "3ddf4aa20252",
+    "competitor": "ISNetworld",
+    "title": "Vitro Flat Glass Partners with ISN\u00ae to Enhance Contractor Management and Help Improve Jobsite Safety | ISNetworld",
+    "summary": "Leading glass manufacturer advances contractor compliance through ISNetworld\u00ae",
+    "sourceName": "www.isnetworld.com",
+    "sourceUrl": "https://www.isnetworld.com/en/blog/vitro-flat-glass-partners-with-isn-to-enhance-contractor-management-and-help-improve-jobsite-safety",
+    "date": "2025-10-09T08:00:00-05:00",
+    "tags": [],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "c39f6af1dfc1",
+    "competitor": "ISNetworld",
+    "title": "Bird Electric Partners with ISN\u00ae to Streamline Subcontractor Management Across Operations - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY1phN1BtQmdOdVRoSDR6SXlIUGRvdEhvdUs5Q0dxZmZfcDhlTG4xWnJSa0paUWwtLW5zVXd5QVdPSWhINHdCZVRTdE03b0VtaUdfdllTTUQzSEYxX1llTl9hZE15d2dBbmJLN01ZV0hhLXNLc2JsWGk5bzdnRHpKSk5jOGVSWTJ2TEp1OVBqV1NXNTFwUnRnRUlmSE8xQW96cHBxbHlObjJZaEtWM1NtalJ4cGYyb3lVaUp5SjBDZjhHLThlOFByaW5WUDVvclkwYnVqdFdzUkxPN1ZZQUE?oc=5\" target=\"_blank\">Bird Electric Partners with ISN\u00ae to Streamline Subcontractor Management Across Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">B",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY1phN1BtQmdOdVRoSDR6SXlIUGRvdEhvdUs5Q0dxZmZfcDhlTG4xWnJSa0paUWwtLW5zVXd5QVdPSWhINHdCZVRTdE03b0VtaUdfdllTTUQzSEYxX1llTl9hZE15d2dBbmJLN01ZV0hhLXNLc2JsWGk5bzdnRHpKSk5jOGVSWTJ2TEp1OVBqV1NXNTFwUnRnRUlmSE8xQW96cHBxbHlObjJZaEtWM1NtalJ4cGYyb3lVaUp5SjBDZjhHLThlOFByaW5WUDVvclkwYnVqdFdzUkxPN1ZZQUE",
+    "date": "2025-10-08T14:14:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "f7bc42a9dae1",
+    "competitor": "ISNetworld",
+    "title": "Bird Electric Partners with ISN\u00ae to Streamline Subcontractor Management Across Operations | ISNetworld",
+    "summary": "Texas electrical construction service provider leverages ISNetworld\u00ae to enhance subcontractor safety processes",
+    "sourceName": "www.isnetworld.com",
+    "sourceUrl": "https://www.isnetworld.com/en/blog/bird-electric-partners-with-isn-to-streamline-subcontractor-management-across-operations",
+    "date": "2025-10-08T09:18:10-05:00",
+    "tags": [],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "bbd6ee563aee",
+    "competitor": "Avetta",
+    "title": "Webinar: Breaking the Safety Plateau: Insights from Avetta\u2019s 2025 Impact Report - OHS Canada Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOYlVhXzJhbmdUZ2xEbGdLUWpPUmprNEJiUjFCMFhPalVlQnliNDhuWDN6TTA4X3Z1ajVXbzV4ZFFPYWNGOEg5WFJMUGRWc1o2aDItZGJpZ2ItdFdNdE5ORTBHNkZkTy1RcTN1NG1iYUttQUw4VWZYRktjQl9tOS1iajVweEJ1dWVCeGJGNlNwaTkzRHNROFN0S2dBWEpsb2tBSVJPcWQzWDY4aWpleExZ?oc=5\" target=\"_blank\">Webinar: Breaking the Safety Plateau: Insights from Avetta\u2019s 2025 Impact Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OHS Canada Magazine</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYlVhXzJhbmdUZ2xEbGdLUWpPUmprNEJiUjFCMFhPalVlQnliNDhuWDN6TTA4X3Z1ajVXbzV4ZFFPYWNGOEg5WFJMUGRWc1o2aDItZGJpZ2ItdFdNdE5ORTBHNkZkTy1RcTN1NG1iYUttQUw4VWZYRktjQl9tOS1iajVweEJ1dWVCeGJGNlNwaTkzRHNROFN0S2dBWEpsb2tBSVJPcWQzWDY4aWpleExZ",
+    "date": "2025-10-08T07:00:00+00:00",
+    "tags": [
+      "Analytics",
+      "Announcement"
+    ],
+    "impact_score": 0.55,
+    "severity": "info"
+  },
+  {
+    "id": "21fb20fb8934",
+    "competitor": "ISNetworld",
+    "title": "ISN\u00ae Modernizes Workers\u2019 Compensation Tool Through Usability Enhancements and Expanded Data Insights - medianet.com.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX3hMeUppWTVHMW5EdUhsT2xJQXJKVExlT1NHQnNMRDFfRHpjczVxQmo5alhyd19ic19yVGU3SDkwc2ZYT1BBM3B3UG9LTkVIZEtmZkRSWUJGdHFkQUd1UDNPTy1YdXhqc1RBUjFNWGlKaVVTaWs3WXdwbEZIYkJFejhaMEZYZDc4UzUycDhFNmtKNlBnSm4zNk8zaHdMSEp5Q3FIdWQ1R2NLRTlvb2dkdTJlb1NDMXVWTWNoY2kxcXhjdDF0V1lJaGFkLVRZbmFXMHFLQkdia3dia2lTa19r?oc=5\" target=\"_blank\">ISN\u00ae Modernizes Workers\u2019 Compensation Tool Through Usability Enhancements and Expanded Data Insights</a>&nbsp;&nbsp;<font color",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX3hMeUppWTVHMW5EdUhsT2xJQXJKVExlT1NHQnNMRDFfRHpjczVxQmo5alhyd19ic19yVGU3SDkwc2ZYT1BBM3B3UG9LTkVIZEtmZkRSWUJGdHFkQUd1UDNPTy1YdXhqc1RBUjFNWGlKaVVTaWs3WXdwbEZIYkJFejhaMEZYZDc4UzUycDhFNmtKNlBnSm4zNk8zaHdMSEp5Q3FIdWQ1R2NLRTlvb2dkdTJlb1NDMXVWTWNoY2kxcXhjdDF0V1lJaGFkLVRZbmFXMHFLQkdia3dia2lTa19r",
+    "date": "2025-10-01T14:32:22+00:00",
+    "tags": [
+      "Analytics",
+      "Announcement"
+    ],
+    "impact_score": 0.55,
+    "severity": "info"
+  },
+  {
+    "id": "63f3203225c6",
+    "competitor": "ISNetworld",
+    "title": "ISN\u00ae Modernizes Workers\u2019 Compensation Tool Through Usability Enhancements and Expanded Data Insights | ISNetworld",
+    "summary": "Upgrades improve user navigation and provide increased visibility into historical data",
+    "sourceName": "www.isnetworld.com",
+    "sourceUrl": "https://www.isnetworld.com/en/blog/isn-modernizes-workers-compensation-tool-through-usability-enhancements-and-expanded-data-insights",
+    "date": "2025-10-01T08:00:00-05:00",
+    "tags": [
+      "Analytics"
+    ],
+    "impact_score": 0.55,
+    "severity": "info"
+  },
+  {
+    "id": "38569998415b",
+    "competitor": "ISNetworld",
+    "title": "ISN\u00ae Modernizes Workers\u2019 Compensation Tool Through Usability Enhancements and Expanded Data Insights - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMmY4Q1hFa29OaHY3ZGN1b2YwS1UyQmIxTXIwZWEtdTM0RWkxYnFBT2d5VURGYzhIdUY0ZXNrZDlXcVI0UjRGQ3RYVDBOTEhIZUJqQk1UX3NEOUc3Q21rWmN3d3U1Zm9Bc2s2dDVxSmlvVGtvQVBEUmdBTmZRcUVwamNqZXRWRlRBUXZZSTUySHJEMjVmT29weE5wd19zdFd3VU0xSjJHT2VsMXVZSkVVR3VGOFUwN3g1TlZaSVFjR0hINHNrMDFVd0JVc2txcXM0Qkdlam5teWZSc2U0UWFSTDQ1NFU5Z1FnSWN3?oc=5\" target=\"_blank\">ISN\u00ae Modernizes Workers\u2019 Compensation Tool Through Usability Enhancements and Expanded Data Insights</a>&nbsp;&",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMmY4Q1hFa29OaHY3ZGN1b2YwS1UyQmIxTXIwZWEtdTM0RWkxYnFBT2d5VURGYzhIdUY0ZXNrZDlXcVI0UjRGQ3RYVDBOTEhIZUJqQk1UX3NEOUc3Q21rWmN3d3U1Zm9Bc2s2dDVxSmlvVGtvQVBEUmdBTmZRcUVwamNqZXRWRlRBUXZZSTUySHJEMjVmT29weE5wd19zdFd3VU0xSjJHT2VsMXVZSkVVR3VGOFUwN3g1TlZaSVFjR0hINHNrMDFVd0JVc2txcXM0Qkdlam5teWZSc2U0UWFSTDQ1NFU5Z1FnSWN3",
+    "date": "2025-10-01T07:00:00+00:00",
+    "tags": [
+      "Analytics",
+      "Announcement"
+    ],
+    "impact_score": 0.55,
+    "severity": "info"
+  },
+  {
+    "id": "faae67770897",
+    "competitor": "Avetta",
+    "title": "Avetta\u2019s Safety Maturity Index: Understanding the Role of Safety Maturity in Today\u2019s Supply Chain - Safety+Health magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQkFTMUVWTDNTcVUwUkRRajloOTdjQ1NZd0tEZTFCTmtGM1lkUXFFc2tzQk13ZmdIMWkyQnNocXczcjM1U2dGdnkyZHZ5NFpaTmN4dGFneWF6T3lIaXVCM1VIam80MXplcDY5LWhXc3JqSFVjb3p6bnZwVllLN3RGeXY5SkF3bTMzcUxBb0RUZkhVd1hWY2R2NF9hQWRpWmdKSXRLc3YxeTh3TTM4WkJJcXYzZTRyYldmS2x6RVRPVEliUkI5ZGpHZzNoREd3SXprUzk1U1VicktXQ0FISVVSb0hnZw?oc=5\" target=\"_blank\">Avetta\u2019s Safety Maturity Index: Understanding the Role of Safety Maturity in Today\u2019s Supply Chain</a>&nbsp;&nbsp;<font co",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQkFTMUVWTDNTcVUwUkRRajloOTdjQ1NZd0tEZTFCTmtGM1lkUXFFc2tzQk13ZmdIMWkyQnNocXczcjM1U2dGdnkyZHZ5NFpaTmN4dGFneWF6T3lIaXVCM1VIam80MXplcDY5LWhXc3JqSFVjb3p6bnZwVllLN3RGeXY5SkF3bTMzcUxBb0RUZkhVd1hWY2R2NF9hQWRpWmdKSXRLc3YxeTh3TTM4WkJJcXYzZTRyYldmS2x6RVRPVEliUkI5ZGpHZzNoREd3SXprUzk1U1VicktXQ0FISVVSb0hnZw",
+    "date": "2025-09-28T07:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "74f1b84c7887",
+    "competitor": "Avetta",
+    "title": "Avetta Unveils Innovative Mobile Experience to Streamline Field Operations - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPUkQ0OS1yZGMzOFJkYXliUll1cUtpbUFvbWxfSnVJSFNLQ21yYnkyeV9wRW1WelVTLWZJanItaFFNYzBvUEtKT1FQWnZpSTdYRkpDQmxGMEJKc19QWTU1Vzh3NlVZMGhaTzQxYzRneGlCYWdOMlg2cVdRZ1F6SHIyLW1DQWE5U3F6LVhCd3dvU1VxYjVsMzRzMUxlb21KTW9DSGFsSUpBb1FqQjJzcTJvc2hoRm5jUTYycjJ5N2ZpYmZFWlcteHBNNXF0RQ?oc=5\" target=\"_blank\">Avetta Unveils Innovative Mobile Experience to Streamline Field Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUkQ0OS1yZGMzOFJkYXliUll1cUtpbUFvbWxfSnVJSFNLQ21yYnkyeV9wRW1WelVTLWZJanItaFFNYzBvUEtKT1FQWnZpSTdYRkpDQmxGMEJKc19QWTU1Vzh3NlVZMGhaTzQxYzRneGlCYWdOMlg2cVdRZ1F6SHIyLW1DQWE5U3F6LVhCd3dvU1VxYjVsMzRzMUxlb21KTW9DSGFsSUpBb1FqQjJzcTJvc2hoRm5jUTYycjJ5N2ZpYmZFWlcteHBNNXF0RQ",
+    "date": "2025-09-25T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "c69480ed7506",
+    "competitor": "Avetta",
+    "title": "Avetta Announces its 2025 APAC Customer Award Finalists - The AI Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQcmN6QVJIVE1WZ2M5WVNfaTdOU3pYUTdDckRGS28xT3JNMlJ1Y1l1MVoycDNPd2h3b3ZWT3JjV29lc0lJS1BQRWd5d3RhSkcwZVlfUlFEaU8wV05ycktHNXlncVlENlN6b2hCSkVTUGRRRmY0YUpkM3Bzblp3SmotOVdn?oc=5\" target=\"_blank\">Avetta Announces its 2025 APAC Customer Award Finalists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The AI Journal</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcmN6QVJIVE1WZ2M5WVNfaTdOU3pYUTdDckRGS28xT3JNMlJ1Y1l1MVoycDNPd2h3b3ZWT3JjV29lc0lJS1BQRWd5d3RhSkcwZVlfUlFEaU8wV05ycktHNXlncVlENlN6b2hCSkVTUGRRRmY0YUpkM3Bzblp3SmotOVdn",
+    "date": "2025-09-22T22:14:53+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "7be9679954de",
+    "competitor": "Avetta",
+    "title": "Avetta Announces its 2025 APAC Customer Award Finalists - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxObDNfbFA3emNHOTY1Wm5sZ1VvV3gwelFxZjd3dFVjLXJMaDB4NENSR0FlUlJVLVNZdkt3WklTVEZQMjhDbV9rTDR4LXRmUm5ZWkU5ZFlYeFotR18tdDNybHFsdjVHbVp1MFJCVUh0b2lZdlhSUDNicm5kWWh3YVVDSld2U3ZfU0NNUUp3OF9QbE4xeUh4UGRaTzQwcGwzNDdiTDBSZDhDdlVKcG1XUXlwMDR3?oc=5\" target=\"_blank\">Avetta Announces its 2025 APAC Customer Award Finalists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObDNfbFA3emNHOTY1Wm5sZ1VvV3gwelFxZjd3dFVjLXJMaDB4NENSR0FlUlJVLVNZdkt3WklTVEZQMjhDbV9rTDR4LXRmUm5ZWkU5ZFlYeFotR18tdDNybHFsdjVHbVp1MFJCVUh0b2lZdlhSUDNicm5kWWh3YVVDSld2U3ZfU0NNUUp3OF9QbE4xeUh4UGRaTzQwcGwzNDdiTDBSZDhDdlVKcG1XUXlwMDR3",
+    "date": "2025-09-22T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "dfcfc57dba68",
+    "competitor": "ISNetworld",
+    "title": "ISN\u00ae Strengthens Financial Monitoring to Broaden Operational Risk Oversight | ISNetworld",
+    "summary": "Enhanced financial tool addresses procurement risks associated with job site sourcing",
+    "sourceName": "www.isnetworld.com",
+    "sourceUrl": "https://www.isnetworld.com/en/blog/isn-strengthens-financial-monitoring-to-broaden-operational-risk-oversight",
+    "date": "2025-09-19T14:30:51-05:00",
+    "tags": [],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "b59fc4c689b4",
+    "competitor": "ISNetworld",
+    "title": "ISN\u00ae Partners with Esso Exploration Angola Limited to Advance Contractor Management | ISNetworld",
+    "summary": "ISN\u00ae Partners with Esso Exploration Angola Limited to Advance Contractor Management",
+    "sourceName": "www.isnetworld.com",
+    "sourceUrl": "https://www.isnetworld.com/en/blog/isn-partners-with-esso-exploration-angola-limited-to-advance-contractor-management",
+    "date": "2025-09-19T12:35:02-05:00",
+    "tags": [],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "302db383fb14",
+    "competitor": "Avetta",
+    "title": "Top Worktech News From the Week of September 19th: Updates from Oracle, Blue Yonder, Avetta, and More - solutionsreview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNME91TGZUQlZ1NHhhS2ZXamtFSDM4RE81UDFqTlZhYTVYRTVMNUhMVF9FOTBoVFlfVTBnM2t2eXJPVXpQbk1VUmVzY0JhRTFjZTZrLXZUVW1GSUZzaDBKbVRTWE5CUkZCb01SSTREWmppbXJaeWdFQmwxSHRQT242TzBwNW5Eem9DWlhoOHdXQkxqd1pSWDdNblgycEViLW5EUmtMQmpXSi01aEU?oc=5\" target=\"_blank\">Top Worktech News From the Week of September 19th: Updates from Oracle, Blue Yonder, Avetta, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">solutionsreview.com</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNME91TGZUQlZ1NHhhS2ZXamtFSDM4RE81UDFqTlZhYTVYRTVMNUhMVF9FOTBoVFlfVTBnM2t2eXJPVXpQbk1VUmVzY0JhRTFjZTZrLXZUVW1GSUZzaDBKbVRTWE5CUkZCb01SSTREWmppbXJaeWdFQmwxSHRQT242TzBwNW5Eem9DWlhoOHdXQkxqd1pSWDdNblgycEViLW5EUmtMQmpXSi01aEU",
+    "date": "2025-09-19T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "beb512a82e2f",
+    "competitor": "ISNetworld",
+    "title": "ISN\u00ae Strengthens Financial Monitoring to Broaden Operational Risk Oversight - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNSGpaMVM0VHg3WmYtamo1V0hGZFlvdmE4clQ4bUlsdmRBaWFXZGFHdzFrWWlQR2FUYjdDYXlFQTFuXzdDd0tLMjdvaHVVQ2NxX2FZSEhra3JxbzUydmY4VFNpLTZIbm9NUVVES0ZLT2tySE9WS2dReHlCZTAyZUVuZ0g0d1ctcHNoeGpSUjk0TUhXbnZvekZkRm1UcUxmUkx4STBfWDRSS1kwdmtNRE9sWmhIdlJkWkE5d3Nid0pxUGNOUVRYS1dIbVhaYw?oc=5\" target=\"_blank\">ISN\u00ae Strengthens Financial Monitoring to Broaden Operational Risk Oversight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSGpaMVM0VHg3WmYtamo1V0hGZFlvdmE4clQ4bUlsdmRBaWFXZGFHdzFrWWlQR2FUYjdDYXlFQTFuXzdDd0tLMjdvaHVVQ2NxX2FZSEhra3JxbzUydmY4VFNpLTZIbm9NUVVES0ZLT2tySE9WS2dReHlCZTAyZUVuZ0g0d1ctcHNoeGpSUjk0TUhXbnZvekZkRm1UcUxmUkx4STBfWDRSS1kwdmtNRE9sWmhIdlJkWkE5d3Nid0pxUGNOUVRYS1dIbVhaYw",
+    "date": "2025-09-18T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "88669ac46526",
+    "competitor": "Unknown",
+    "title": "in Mexico to Strengthen Contractor Oversight and Help Ensure Compliance in the Region - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPd1I1b3ZfMmY5cVBvTlpOa2JwRk92TEYyMHYtejE2Ql9STkdneFZhU0RPVHY4OC1pbHVfdktvT0YydjlQbjZQanJOTi1ScU9sTDRXVmUzUWFnVEdDQzk3TUl2eUFFMUhmdHprSGtHYUV5T2xGeEtoMk83c2hLRncyUC00ci1JMzk0bU1yWi1qeC1Ka3g0ZTBQUVhycmpKRWlabGM1TU5UMjZFdFVZcHYtbzliTFo1V2U4S1I1TnRWbHNPRGphbDh1N2gtWGVwMzY2ZXVOM2hlQTRXcWJYRUVIRXg5dk42QzZrek9naXRIMzA3TnF2UVJHQjRMNFdjQ19v?oc=5\" target=\"_blank\">in Mexico to Strengthen Contractor Oversight and Help Ensure Compliance in the Regi",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPd1I1b3ZfMmY5cVBvTlpOa2JwRk92TEYyMHYtejE2Ql9STkdneFZhU0RPVHY4OC1pbHVfdktvT0YydjlQbjZQanJOTi1ScU9sTDRXVmUzUWFnVEdDQzk3TUl2eUFFMUhmdHprSGtHYUV5T2xGeEtoMk83c2hLRncyUC00ci1JMzk0bU1yWi1qeC1Ka3g0ZTBQUVhycmpKRWlabGM1TU5UMjZFdFVZcHYtbzliTFo1V2U4S1I1TnRWbHNPRGphbDh1N2gtWGVwMzY2ZXVOM2hlQTRXcWJYRUVIRXg5dk42QzZrek9naXRIMzA3TnF2UVJHQjRMNFdjQ19v",
+    "date": "2025-09-17T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "6e35b84afdfc",
+    "competitor": "ISNetworld",
+    "title": "ISN\u00ae Partners with Esso Exploration Angola Limited to Advance Contractor Management - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVXd4WDU1YnRrZi1JYjVEbmJDWHl5RkxiZFBwQUJGaHk5bnJXQy1mTF9icm85dlFEYnp4eWxkX0JXVUlNQ2tiMWdjQm9sTGFuNTFSellyaHpDUWtuOC1tcU9WclN6REgyX056ZjJmUGRmSTVWdDlwcXZJVU81RGxvV3hWLUE0cmhUa3FJT2FiaUlncFhOdVJmWkc4N2lCNExPZERKU3hPSXlPamhMZWhJLXZrM3RNSUZIOUJHWHZkajM1Tk1hYk9HNGtNYjhKYWpBVmZEbVJn?oc=5\" target=\"_blank\">ISN\u00ae Partners with Esso Exploration Angola Limited to Advance Contractor Management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</fon",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVXd4WDU1YnRrZi1JYjVEbmJDWHl5RkxiZFBwQUJGaHk5bnJXQy1mTF9icm85dlFEYnp4eWxkX0JXVUlNQ2tiMWdjQm9sTGFuNTFSellyaHpDUWtuOC1tcU9WclN6REgyX056ZjJmUGRmSTVWdDlwcXZJVU81RGxvV3hWLUE0cmhUa3FJT2FiaUlncFhOdVJmWkc4N2lCNExPZERKU3hPSXlPamhMZWhJLXZrM3RNSUZIOUJHWHZkajM1Tk1hYk9HNGtNYjhKYWpBVmZEbVJn",
+    "date": "2025-09-17T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "0f2696a05cbd",
+    "competitor": "Avetta",
+    "title": "Avetta\u2019s Expanded AI Capabilities to Enhance Supplier Workflows - Supply & Demand Chain Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQaHloTldHMzhKYzFjX2E1NUd6SVlNeFg4UEJzeGRNcGFRSlhlNFhKcEFRX2Z3dU52aUZ2cW1VMDFoeHJKUFc0WTBxWU92RUl4NW5qS3pBcEJtbk4ydTZzWlZuZFVjS0lXTHp6U00tejJWZVR4aWJmMFBDQ2pnRmNNN0EzdkpkV1hkQ056cEx6SklsaGlZUUNlOV91VlRjcENGNTB2QkczVTlHRUhyLXdoUW0wdEZkc3ZqeUtDUzJ2UU5EMW5jSl9PWDBaNGpCUQ?oc=5\" target=\"_blank\">Avetta\u2019s Expanded AI Capabilities to Enhance Supplier Workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply & Demand Chain Executive</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaHloTldHMzhKYzFjX2E1NUd6SVlNeFg4UEJzeGRNcGFRSlhlNFhKcEFRX2Z3dU52aUZ2cW1VMDFoeHJKUFc0WTBxWU92RUl4NW5qS3pBcEJtbk4ydTZzWlZuZFVjS0lXTHp6U00tejJWZVR4aWJmMFBDQ2pnRmNNN0EzdkpkV1hkQ056cEx6SklsaGlZUUNlOV91VlRjcENGNTB2QkczVTlHRUhyLXdoUW0wdEZkc3ZqeUtDUzJ2UU5EMW5jSl9PWDBaNGpCUQ",
+    "date": "2025-09-17T07:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "43309a6c5ff5",
+    "competitor": "Avetta",
+    "title": "Avetta Expands AI Capabilities to Accelerate the Future of Global Supply Chains - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZjFzcHNLcFJOVTdBY044WFhvMEszZUdRLTRJakFSTHdFMEI1eVJhWks0NGVoczVQNjEzUzBNNm9CM1g1clRIeXdPWlMxa3FfYVBUdXNZOGRjR01MbkJNQnVlYXd1WEMyLXN0a1hkd3Rwd1JPZkxCcEhOY2xGWHNsNjB1akREOVJabnNzZlJndGJ0UUNLSHFvNFRfb3JPMHc1YXBSR2NpMjlRdGl0WFBmRE5xZ1hfUm9LTm5xT0tsalBNR2RXdjhXVHZ6a29fdlRaMnc?oc=5\" target=\"_blank\">Avetta Expands AI Capabilities to Accelerate the Future of Global Supply Chains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZjFzcHNLcFJOVTdBY044WFhvMEszZUdRLTRJakFSTHdFMEI1eVJhWks0NGVoczVQNjEzUzBNNm9CM1g1clRIeXdPWlMxa3FfYVBUdXNZOGRjR01MbkJNQnVlYXd1WEMyLXN0a1hkd3Rwd1JPZkxCcEhOY2xGWHNsNjB1akREOVJabnNzZlJndGJ0UUNLSHFvNFRfb3JPMHc1YXBSR2NpMjlRdGl0WFBmRE5xZ1hfUm9LTm5xT0tsalBNR2RXdjhXVHZ6a29fdlRaMnc",
+    "date": "2025-09-17T07:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "25945725f516",
+    "competitor": "Avetta",
+    "title": "Avetta: Accelerating AI Innovation in Procurement - Procurement Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnBYMWFYVmdoV3M0LWFnVEFnaUtwazZjdFVfMjQ1THB6Tjd0b3FFczdqdW5pMnZmSWw0ejV0MUVYdzBFcG9MSUNDRXZPdGgzTnZuRUtVbDlaQkN5aEtPSzRWOVROcWlTZDRUd3o1NThQVGtIQXhFVjdvNy03b2NYYlN3?oc=5\" target=\"_blank\">Avetta: Accelerating AI Innovation in Procurement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Procurement Magazine</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnBYMWFYVmdoV3M0LWFnVEFnaUtwazZjdFVfMjQ1THB6Tjd0b3FFczdqdW5pMnZmSWw0ejV0MUVYdzBFcG9MSUNDRXZPdGgzTnZuRUtVbDlaQkN5aEtPSzRWOVROcWlTZDRUd3o1NThQVGtIQXhFVjdvNy03b2NYYlN3",
+    "date": "2025-09-16T07:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "0a6556498248",
+    "competitor": "Avetta",
+    "title": "Avetta: Strengthening Supply Chain Resilience with AI - Supply Chain Digital Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPTWJEdnVrUmlCYjg5OEpaUGdoWU9WSjJPbW1PaUZPQ09fTG1kV0kxeFFpSzY3OUliSUR5WDcyUUYtVENaMmdMVnVLc19ta01IQVRyQ201NzEtTnVyeTQ0cmNyTnA1bDRZOGppSjd6R1dFSUhnTUsyWHZhMzdRQkRqQ2hQeUhxazQ?oc=5\" target=\"_blank\">Avetta: Strengthening Supply Chain Resilience with AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply Chain Digital Magazine</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTWJEdnVrUmlCYjg5OEpaUGdoWU9WSjJPbW1PaUZPQ09fTG1kV0kxeFFpSzY3OUliSUR5WDcyUUYtVENaMmdMVnVLc19ta01IQVRyQ201NzEtTnVyeTQ0cmNyTnA1bDRZOGppSjd6R1dFSUhnTUsyWHZhMzdRQkRqQ2hQeUhxazQ",
+    "date": "2025-09-15T07:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "8425118e687f",
+    "competitor": "Unknown",
+    "title": "Building with confidence: The impact of Dubai\u2019s new Contractors Law - Gulf Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9GdzJyZUM3NTdEeVVkNGN1REZDemhlTFFRbkExQ3F2MFdNdEl3ZExRbUd4OF83YnRrV2RjaFpuYmVud3BkZjNnNV9CQ0JpZjRyTHN6MjBMOGRfQWE4Y3BfSnVqWGRGaEdJajZHbWt4WlZ6ajVO?oc=5\" target=\"_blank\">Building with confidence: The impact of Dubai\u2019s new Contractors Law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf Business</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GdzJyZUM3NTdEeVVkNGN1REZDemhlTFFRbkExQ3F2MFdNdEl3ZExRbUd4OF83YnRrV2RjaFpuYmVud3BkZjNnNV9CQ0JpZjRyTHN6MjBMOGRfQWE4Y3BfSnVqWGRGaEdJajZHbWt4WlZ6ajVO",
+    "date": "2025-09-09T07:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "5859ef6f33ae",
+    "competitor": "Unknown",
+    "title": "Global report highlights industry leader in contractor management - BIC Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQVVYyX2NLS0ZqQnBCeXM2WjkydFphRDZ1SnEtQ2tEdzJ2VDNiMmZSX3J1MFhqLXZyYW9STUhoWWh6OTRObXRsVkFsTW1RTzNha291RFpCaUNFREszLWktZEJiVnNkUXBxU2l6SGRNbGlHMDlrVHk0Q2Y2bFlJd0FJZlRpOEVZby1OQlgzMFdMZjZCbHRuSVlIZGp2YkJ2VXZ6TXc5YzNORk1xaVY5UlHSAbgBQVVfeXFMTUx1ZjlUYzR4TTM2aDBlbFRVcmZfelZ6TnpjNU9jMUE3eldBTGNGMDlBYmFlNnNqTk00RXA1OXN3UGV5SGVxa2xjVExvWXl0a2lRY3AxeWl1dW5kT1JmNlNPWXZ5LUZmTURyTmVfZEI1X0JCN3VPS0YzaVBBS3ZoTGFMSlBnZzZGcWQ3MmpYY0ZtcW1hZTlMaGQydTNyZU",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVVYyX2NLS0ZqQnBCeXM2WjkydFphRDZ1SnEtQ2tEdzJ2VDNiMmZSX3J1MFhqLXZyYW9STUhoWWh6OTRObXRsVkFsTW1RTzNha291RFpCaUNFREszLWktZEJiVnNkUXBxU2l6SGRNbGlHMDlrVHk0Q2Y2bFlJd0FJZlRpOEVZby1OQlgzMFdMZjZCbHRuSVlIZGp2YkJ2VXZ6TXc5YzNORk1xaVY5UlHSAbgBQVVfeXFMTUx1ZjlUYzR4TTM2aDBlbFRVcmZfelZ6TnpjNU9jMUE3eldBTGNGMDlBYmFlNnNqTk00RXA1OXN3UGV5SGVxa2xjVExvWXl0a2lRY3AxeWl1dW5kT1JmNlNPWXZ5LUZmTURyTmVfZEI1X0JCN3VPS0YzaVBBS3ZoTGFMSlBnZzZGcWQ3MmpYY0ZtcW1hZTlMaGQydTNyZUx1cVF4QXU0YmFXLXFqOUdTSXVtVVVzS3hUNg",
+    "date": "2025-09-08T07:00:00+00:00",
+    "tags": [
+      "E-bidding",
+      "Announcement"
+    ],
+    "impact_score": 0.7,
+    "severity": "info"
+  },
+  {
+    "id": "b8d0eba6eec7",
+    "competitor": "ISNetworld",
+    "title": "U.S. Sugar Expands Use of ISNetworld\u00ae to Continue Enhancing Contractor Safety and Compliance | ISNetworld",
+    "summary": "U.S. Sugar Expands Use of ISNetworld\u00ae to Continue Enhancing Contractor Safety and Compliance",
+    "sourceName": "www.isnetworld.com",
+    "sourceUrl": "https://www.isnetworld.com/en/blog/u.s.-sugar-expands-use-of-isnetworld-to-continue-enhancing-contractor-safety-and-compliance",
+    "date": "2025-09-05T15:38:23-05:00",
+    "tags": [],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "c426f52d4715",
+    "competitor": "ISNetworld",
+    "title": "ISN\u00ae Expands Cybersecurity Solutions to Help Organizations Manage Third-Party Cyber Risk - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdXNEbmR5bFBFLUlZS1RjazZPcWllck1XSVluVDY2SlBuXzJKMWZLWHcyQWFVLWY1c20wSW1kRndVWWJqSVA2VTNmV3dSY0FhNVpndHJvMlY5cUxxV1loWmtnUHp1ZllFVkpwaVhzNUwzMkVxVWFRQzRlVXFkY1RQd1psS1kxclFtR0NMWGk1dUx1U3FpM0NKOFV1NlZDU1hmd0oxMDhFMUVBSzB1ZGpYdFBma0lUQm1YcHpxRUFyR0N2UG5pQnMwaWVxMmJ6S2ZIaGx0Z0F1cTB1akxf?oc=5\" target=\"_blank\">ISN\u00ae Expands Cybersecurity Solutions to Help Organizations Manage Third-Party Cyber Risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Busin",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdXNEbmR5bFBFLUlZS1RjazZPcWllck1XSVluVDY2SlBuXzJKMWZLWHcyQWFVLWY1c20wSW1kRndVWWJqSVA2VTNmV3dSY0FhNVpndHJvMlY5cUxxV1loWmtnUHp1ZllFVkpwaVhzNUwzMkVxVWFRQzRlVXFkY1RQd1psS1kxclFtR0NMWGk1dUx1U3FpM0NKOFV1NlZDU1hmd0oxMDhFMUVBSzB1ZGpYdFBma0lUQm1YcHpxRUFyR0N2UG5pQnMwaWVxMmJ6S2ZIaGx0Z0F1cTB1akxf",
+    "date": "2025-09-04T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "4f8e5357937c",
+    "competitor": "ISNetworld",
+    "title": "Heidelberg Materials North America Selects ISN\u00ae to Enhance and Streamline Contractor Qualification | ISNetworld",
+    "summary": "Leading North American building material provider implements ISNetworld\u00ae to improve safety and compliance initiatives",
+    "sourceName": "www.isnetworld.com",
+    "sourceUrl": "https://www.isnetworld.com/en/blog/heidelberg-materials-north-america-selects-isn-to-enhance-and-streamline-contractor-qualification",
+    "date": "2025-09-03T12:37:38-05:00",
+    "tags": [],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "2f479290d474",
+    "competitor": "ISNetworld",
+    "title": "Heidelberg Materials North America Selects ISN\u00ae to Enhance and Streamline Contractor Qualification - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPS0twenA3eVRUUU5xaG5jNE9rUFd2d1J6R3ZwWFNsRFpadExHMzFmNDkxRzNoZ2JVY0RrWEhjamNjbkwzVjEzUzdfYVgyNjJCLWwwdzhKTDlvcHM4RG1oMVZPM19fMkNXMkt5OTVaQnhsS014UFRxR0cxeHFnVlQ5VjRoaldJcUNEUXZQUVFya2t6MGoyODdrV2sydXZPZEMwaDBQY0NITFBRS2dZSWVpNHFfTkdhMmh1OVZHUTdsajJVaFBFUk1rb2VwMk1kRVByeTZ2RVZDZ2xraGdqdHFYanJHNzVDVGR4Y0E?oc=5\" target=\"_blank\">Heidelberg Materials North America Selects ISN\u00ae to Enhance and Streamline Contractor Qualification</a>&nbsp;&nbs",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPS0twenA3eVRUUU5xaG5jNE9rUFd2d1J6R3ZwWFNsRFpadExHMzFmNDkxRzNoZ2JVY0RrWEhjamNjbkwzVjEzUzdfYVgyNjJCLWwwdzhKTDlvcHM4RG1oMVZPM19fMkNXMkt5OTVaQnhsS014UFRxR0cxeHFnVlQ5VjRoaldJcUNEUXZQUVFya2t6MGoyODdrV2sydXZPZEMwaDBQY0NITFBRS2dZSWVpNHFfTkdhMmh1OVZHUTdsajJVaFBFUk1rb2VwMk1kRVByeTZ2RVZDZ2xraGdqdHFYanJHNzVDVGR4Y0E",
+    "date": "2025-09-03T07:00:00+00:00",
+    "tags": [
+      "E-bidding",
+      "Announcement"
+    ],
+    "impact_score": 0.7,
+    "severity": "info"
+  },
+  {
+    "id": "24b0cc83471b",
+    "competitor": "ISNetworld",
+    "title": "ANDRITZ Expands Use of ISNetworld\u00ae to Strengthen Subcontractor Management for Pulp & Paper Operations - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVlN1VzBmMEtRMDg5V052clBmQ3BWZ3ZLbTFDMEJxQ3BHdmh0UUFQNENFaE5JUFotaXM3WFh5RXRKZS03Q3NoRndrMy1zeFduVjVSRi1sNjR0NHcwNUJpUWRXT1ZUUTJVRk1QZ0VwZkdFcmxXMUxKV3lJNElTR0k2WFFSSE95Z0djN1otZTU1cHF4TlhBQ0pUOURnUWV3QQ?oc=5\" target=\"_blank\">ANDRITZ Expands Use of ISNetworld\u00ae to Strengthen Subcontractor Management for Pulp & Paper Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlN1VzBmMEtRMDg5V052clBmQ3BWZ3ZLbTFDMEJxQ3BHdmh0UUFQNENFaE5JUFotaXM3WFh5RXRKZS03Q3NoRndrMy1zeFduVjVSRi1sNjR0NHcwNUJpUWRXT1ZUUTJVRk1QZ0VwZkdFcmxXMUxKV3lJNElTR0k2WFFSSE95Z0djN1otZTU1cHF4TlhBQ0pUOURnUWV3QQ",
+    "date": "2025-08-26T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "489896376ba5",
+    "competitor": "ISNetworld",
+    "title": "ISN\u00ae to Help Elevate Contractor Safety for Stanford University Land, Buildings & Real Estate - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTy1uckRFc0FZd3pSd0ZnZ2R0RVlHUzdwUGxXODhxbE5mWURZenRFSUFsNVJtdWREMmpGaldMLW1mUnpHMVl0M19Tb1N5NUplRnhKUTR6YU9ETjNzMkhGY3JFZDFBLXZEandLeTcwVGdXOElaZjVUZXV5M3pBNWZCYm4xbHA5TjNzbXkxWUpuMmIyVTVjMW1EaDVHS0JnQjg4dWpoS1lYRzhhT3J4Sk40SC1WUGVOQkdQal9ady04WXpRdDdoa05BZHJBN1dESE5keC1SalJFTDUyTEdoMGc?oc=5\" target=\"_blank\">ISN\u00ae to Help Elevate Contractor Safety for Stanford University Land, Buildings & Real Estate</a>&nbsp;&nbsp;<font color=\"#6f6f6f",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTy1uckRFc0FZd3pSd0ZnZ2R0RVlHUzdwUGxXODhxbE5mWURZenRFSUFsNVJtdWREMmpGaldMLW1mUnpHMVl0M19Tb1N5NUplRnhKUTR6YU9ETjNzMkhGY3JFZDFBLXZEandLeTcwVGdXOElaZjVUZXV5M3pBNWZCYm4xbHA5TjNzbXkxWUpuMmIyVTVjMW1EaDVHS0JnQjg4dWpoS1lYRzhhT3J4Sk40SC1WUGVOQkdQal9ady04WXpRdDdoa05BZHJBN1dESE5keC1SalJFTDUyTEdoMGc",
+    "date": "2025-08-21T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "1eed464500e9",
+    "competitor": "ISNetworld",
+    "title": "Arkema Expands Use of ISNetworld\u00ae to Mexico to Further Enhance Contractor Oversight - FinancialContent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNEExLVd2cGY3NW1NUkhJVC1IdFA2cmZVX0tjOEZKSUdHczh2QWhuX1RXd09FSmw5a2Foa0M2RzBvb2VGNVowNjl4U1EwcndnU3N1NG9BWUhVcWR3c0JPN2U2T1d0aGVLUFZKY3pnVFdQbHhYdjBPc001aHRpM0VKcVZqNHlfN0NoSWdnc3lRd1R6VGVDN3ZjY0JEeHFieGhlb1ZzTnllVVlLb255U1FKbXhYbFFLNFp6NGJwN1ROM082UTJ6dGFrc0R1MVVnNXp2QTM3U3pXeEtRTktXTmZCdnQzZUs?oc=5\" target=\"_blank\">Arkema Expands Use of ISNetworld\u00ae to Mexico to Further Enhance Contractor Oversight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNEExLVd2cGY3NW1NUkhJVC1IdFA2cmZVX0tjOEZKSUdHczh2QWhuX1RXd09FSmw5a2Foa0M2RzBvb2VGNVowNjl4U1EwcndnU3N1NG9BWUhVcWR3c0JPN2U2T1d0aGVLUFZKY3pnVFdQbHhYdjBPc001aHRpM0VKcVZqNHlfN0NoSWdnc3lRd1R6VGVDN3ZjY0JEeHFieGhlb1ZzTnllVVlLb255U1FKbXhYbFFLNFp6NGJwN1ROM082UTJ6dGFrc0R1MVVnNXp2QTM3U3pXeEtRTktXTmZCdnQzZUs",
+    "date": "2025-08-14T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "9c0603ec1608",
+    "competitor": "ISNetworld",
+    "title": "RESRG Automotive Continues Partnership with ISN\u00ae for Contractor Management - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOWFptVk9pS05fcWdGbFhIUzFQcC1Va1hBRTdrRzFYbE5laDhjN0xFeWhBWFNsQTc1MTdNbmM4cGhoVDBuVHQtQmNsM09LR1A2aURjemZMMGt6LXA1dEE4dDdReW1HYS1OWVRsdHpXM3V1bGhVRS1QQ2hSSG5Oalpnd2g3a2tHYzBYVmxISnJ3Tm1HeURRVGVNZHJyYzY3a2JqUEstZzVqcmVLQ0dueEVZdTBSaVVCaXd1Tjc4VjBhTzBwb3l2U1FnTjln?oc=5\" target=\"_blank\">RESRG Automotive Continues Partnership with ISN\u00ae for Contractor Management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWFptVk9pS05fcWdGbFhIUzFQcC1Va1hBRTdrRzFYbE5laDhjN0xFeWhBWFNsQTc1MTdNbmM4cGhoVDBuVHQtQmNsM09LR1A2aURjemZMMGt6LXA1dEE4dDdReW1HYS1OWVRsdHpXM3V1bGhVRS1QQ2hSSG5Oalpnd2g3a2tHYzBYVmxISnJ3Tm1HeURRVGVNZHJyYzY3a2JqUEstZzVqcmVLQ0dueEVZdTBSaVVCaXd1Tjc4VjBhTzBwb3l2U1FnTjln",
+    "date": "2025-08-06T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "2ff347a5c080",
+    "competitor": "Unknown",
+    "title": "Foldable flex joint actuator with ultralow operating air pressure - ScienceDirect.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE4xNndOWEQzNnFDS3U0N2xYejJ3aFp6Qnh5X09kMElTZGZDU1BOYnVIVE5XYzUtM0FwUEc4cjY1LTY4WTdQV0ZITFN6aEFYMEZqeXhRVVB2SW4wLV9ocTQzYzdZdDQ3THFZTHNfR2NyVzIxUEVRVGRkeTdNOA?oc=5\" target=\"_blank\">Foldable flex joint actuator with ultralow operating air pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ScienceDirect.com</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xNndOWEQzNnFDS3U0N2xYejJ3aFp6Qnh5X09kMElTZGZDU1BOYnVIVE5XYzUtM0FwUEc4cjY1LTY4WTdQV0ZITFN6aEFYMEZqeXhRVVB2SW4wLV9ocTQzYzdZdDQ3THFZTHNfR2NyVzIxUEVRVGRkeTdNOA",
+    "date": "2025-08-01T07:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "4b468b4a998d",
+    "competitor": "Avetta",
+    "title": "Exclusive: Avetta boosts APAC expansion with brand new Sydney office - SecurityBrief Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQUEV2X094QXYwbV9zU0tMMUw1eEVXRjFIMEhTTVdRVXp5eS1URWloNXFoODBZR2pPRTR5dWMtMVRNNXZMUHZhYzZqRWJ3dklLeXZvWDFab1c3dUk4d0JhMVpBd0liV19fSHpUZXp5UGhqOWFjQnEyWFVNLUY1ZExLakE4S3dwT1AxTHBaSVBTeF80ZlMyaGRYSXdNZVEzYTh3SFpwTA?oc=5\" target=\"_blank\">Exclusive: Avetta boosts APAC expansion with brand new Sydney office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SecurityBrief Australia</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUEV2X094QXYwbV9zU0tMMUw1eEVXRjFIMEhTTVdRVXp5eS1URWloNXFoODBZR2pPRTR5dWMtMVRNNXZMUHZhYzZqRWJ3dklLeXZvWDFab1c3dUk4d0JhMVpBd0liV19fSHpUZXp5UGhqOWFjQnEyWFVNLUY1ZExLakE4S3dwT1AxTHBaSVBTeF80ZlMyaGRYSXdNZVEzYTh3SFpwTA",
+    "date": "2025-07-30T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "47cb47411a0f",
+    "competitor": "Unknown",
+    "title": "My 6 Best Environmental Health and Safety Software Picks - G2 Learning Hub",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9HZ2ZDOU44U3lyZ0R3LUVIUW9FczhLM29iVDN1X1A2VXhqTVpGVXZra0NNejVoWG5xTW1odFEybmZhak1zZzJCdzZKQi1OM0hISWkxWWdCUFRKdi1VQnBDM1FFVF9rX0Rtbmp4UWFjanlFQQ?oc=5\" target=\"_blank\">My 6 Best Environmental Health and Safety Software Picks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">G2 Learning Hub</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HZ2ZDOU44U3lyZ0R3LUVIUW9FczhLM29iVDN1X1A2VXhqTVpGVXZra0NNejVoWG5xTW1odFEybmZhak1zZzJCdzZKQi1OM0hISWkxWWdCUFRKdi1VQnBDM1FFVF9rX0Rtbmp4UWFjanlFQQ",
+    "date": "2025-07-23T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "83ad73e586f0",
+    "competitor": "Avetta",
+    "title": "Avetta strengthens NSW presence with new Sydney & Newcastle offices - ChannelLife Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGc2cVE1R1dCVWd4bjQxYTRrbnkyUkthWFdvZGc5NUhHeHdES200azhjZ0FwakdmTS1OOGxZVVQ1OURLdHRPbUNKQ0NkazVNdEMxenFVTEVCSzdZZkU5N3dKVFRWZzl2N0JYdHhDdWcxbG1ybjlMUDczR3JkX3d4bnJwbXBwMkRsNFFvMmVIdG5KRmJNdGNjZDJDRURiWnM?oc=5\" target=\"_blank\">Avetta strengthens NSW presence with new Sydney & Newcastle offices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ChannelLife Australia</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGc2cVE1R1dCVWd4bjQxYTRrbnkyUkthWFdvZGc5NUhHeHdES200azhjZ0FwakdmTS1OOGxZVVQ1OURLdHRPbUNKQ0NkazVNdEMxenFVTEVCSzdZZkU5N3dKVFRWZzl2N0JYdHhDdWcxbG1ybjlMUDczR3JkX3d4bnJwbXBwMkRsNFFvMmVIdG5KRmJNdGNjZDJDRURiWnM",
+    "date": "2025-07-17T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "3e83947a85d2",
+    "competitor": "ISNetworld",
+    "title": "ISN\u00ae Enhances Contractor Search & Source Feature with AI-Powered Tools - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNlZaZlo4TzI5eV9fT0c3WTR2TzlZZ3JUazVvcjIwWm9hNGdoU093YXlQWlNQNUtLYl9tS3R5dGdZTGU0R2hKZ3ptSGRpd2p5WHNTazFLcGtVUFB3c0xGdnZEX1BiRy1hN0dLQkRZVFdVRVU0RjN2Y0VzVzZoSkdCZ2J5ckNpNTVZNm1JdlJSOGtqaDVmd2dwdVdmY2ZUS3g5dmlnZFVWWW13c21SUi1JUHBUS3ppOHlhN0hJbEdwU0Uydw?oc=5\" target=\"_blank\">ISN\u00ae Enhances Contractor Search & Source Feature with AI-Powered Tools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNlZaZlo4TzI5eV9fT0c3WTR2TzlZZ3JUazVvcjIwWm9hNGdoU093YXlQWlNQNUtLYl9tS3R5dGdZTGU0R2hKZ3ptSGRpd2p5WHNTazFLcGtVUFB3c0xGdnZEX1BiRy1hN0dLQkRZVFdVRVU0RjN2Y0VzVzZoSkdCZ2J5ckNpNTVZNm1JdlJSOGtqaDVmd2dwdVdmY2ZUS3g5dmlnZFVWWW13c21SUi1JUHBUS3ppOHlhN0hJbEdwU0Uydw",
+    "date": "2025-07-15T07:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "aca31f064bc8",
+    "competitor": "Unknown",
+    "title": "FG sets new rule mandating SON certificate for contractors bidding on public projects - Nairametrics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQS3h1X0VPSEFtSC1FcTdnQnAyOW1zQnJGU2w2U3JzYW1IQ1prUG50SUEyQmRIc2RVVkJwbExEYjJSV05hN3lORmFGZjlwbm90N1V5aTlOOEVmdkVET2xRQThkLU5YTW5QVkUxcEFXM0ZVQUVOMnhtWS1zOWdHWHFWeWVueE8xb2c5c21vb3VBbHRmYVk0eldpMEh4Zm1NRGF3VW81U2FGdG1WZmx6R0pIeC1vUlFZaGJWTjlqamFnMA?oc=5\" target=\"_blank\">FG sets new rule mandating SON certificate for contractors bidding on public projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nairametrics</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS3h1X0VPSEFtSC1FcTdnQnAyOW1zQnJGU2w2U3JzYW1IQ1prUG50SUEyQmRIc2RVVkJwbExEYjJSV05hN3lORmFGZjlwbm90N1V5aTlOOEVmdkVET2xRQThkLU5YTW5QVkUxcEFXM0ZVQUVOMnhtWS1zOWdHWHFWeWVueE8xb2c5c21vb3VBbHRmYVk0eldpMEh4Zm1NRGF3VW81U2FGdG1WZmx6R0pIeC1vUlFZaGJWTjlqamFnMA",
+    "date": "2025-07-12T07:00:00+00:00",
+    "tags": [
+      "AI",
+      "E-bidding",
+      "Announcement"
+    ],
+    "impact_score": 0.95,
+    "severity": "watch"
+  },
+  {
+    "id": "cc4681e443ca",
+    "competitor": "Unknown",
+    "title": "The 5 Best Miele Vacuums of 2025: Reviews - RTINGS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wN29CZXpfMUk3d2M4R3BZY2FEbnl4WmUwM1YxUU9hNnYtUHdJT2xiU0JJc1hySHZGXzF4dVdRSGdZRmpfY0RUY2lQdkdhNTVFVGFHUFZn?oc=5\" target=\"_blank\">The 5 Best Miele Vacuums of 2025: Reviews</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTINGS.com</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wN29CZXpfMUk3d2M4R3BZY2FEbnl4WmUwM1YxUU9hNnYtUHdJT2xiU0JJc1hySHZGXzF4dVdRSGdZRmpfY0RUY2lQdkdhNTVFVGFHUFZn",
+    "date": "2025-07-10T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "8063ae305729",
+    "competitor": "Unknown",
+    "title": "Federation of State Medical Boards Selects HighWire to Host the Journal of Medical Regulation's New Digital Platform - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQdG9HZXdZTkV6S3U3REw0azJOTFlOU1dlSW1lODdyR1FJTXBHelBDRFhKdmQxQ1dzSXpGR2x4WkN4ZzIzSm9ONWlqWXBtSXo3bndrSDEwMDhSYnF4LTdWN3RvTDBTenhmRGpsSHpJOEw1M1Z3eEVleXVNcGNVQy1TZ2tKXy1rTWgtbC1fUnA4RFBJV1NLZkVaYVc3VGFzVjV4N3BCYk1wRmgwMy1Zalp6YnZ1OVJOWkpiNmVCdWFDeHk1dkhzRVJVazVLNFgybGtPemlOTWF6eTU2OU5EWUZlWFJUdm5naF95OC1weG8wMi1tbXRDQUdiYXItWXZNZldy?oc=5\" target=\"_blank\">Federation of State Medical Boards Selects HighWire to Host the Journal of Medical ",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdG9HZXdZTkV6S3U3REw0azJOTFlOU1dlSW1lODdyR1FJTXBHelBDRFhKdmQxQ1dzSXpGR2x4WkN4ZzIzSm9ONWlqWXBtSXo3bndrSDEwMDhSYnF4LTdWN3RvTDBTenhmRGpsSHpJOEw1M1Z3eEVleXVNcGNVQy1TZ2tKXy1rTWgtbC1fUnA4RFBJV1NLZkVaYVc3VGFzVjV4N3BCYk1wRmgwMy1Zalp6YnZ1OVJOWkpiNmVCdWFDeHk1dkhzRVJVazVLNFgybGtPemlOTWF6eTU2OU5EWUZlWFJUdm5naF95OC1weG8wMi1tbXRDQUdiYXItWXZNZldy",
+    "date": "2025-07-07T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "298977c4b43e",
+    "competitor": "Avetta",
+    "title": "Interview with Avetta's Eric Larson at PSC LIVE Chicago - Procurement Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1ZqR3J6dGdQNDF0T19YcHpna1JFTEFkZTBPdU55RTJXQ3BjT0JrbUhMVmc1d3h6c3E3Qk1aZ2V1am9JUGVqbHJZQXFtVGpNTXpJTUhGQlVQV090VmQ4MWNOa3Bxb0V2WmJoTEgtWTd1OU80dWp1bEU4MG9uLWVLNF9QYw?oc=5\" target=\"_blank\">Interview with Avetta's Eric Larson at PSC LIVE Chicago</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Procurement Magazine</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1ZqR3J6dGdQNDF0T19YcHpna1JFTEFkZTBPdU55RTJXQ3BjT0JrbUhMVmc1d3h6c3E3Qk1aZ2V1am9JUGVqbHJZQXFtVGpNTXpJTUhGQlVQV090VmQ4MWNOa3Bxb0V2WmJoTEgtWTd1OU80dWp1bEU4MG9uLWVLNF9QYw",
+    "date": "2025-07-04T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "b05ebb490fd2",
+    "competitor": "Avetta",
+    "title": "PSC LIVE Chicago: Interview with Eric Larson, Avetta - Supply Chain Digital Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOajhlekZ3NVBheTB5SzZwWktoNUM2OHB3T2IxNTlpcGNtTlNreGZOOWotakNaMlNZU3U1UlJsOTg2XzRrY0RGcDY1eXg0bUN1bnRWVElsWkFGRjhiTWV2M3poaVdUcTd5bGZ6Y19HUFlCUHNlQjNoc3NES0R2V1NSd2VTUlZic1gx?oc=5\" target=\"_blank\">PSC LIVE Chicago: Interview with Eric Larson, Avetta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply Chain Digital Magazine</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOajhlekZ3NVBheTB5SzZwWktoNUM2OHB3T2IxNTlpcGNtTlNreGZOOWotakNaMlNZU3U1UlJsOTg2XzRrY0RGcDY1eXg0bUN1bnRWVElsWkFGRjhiTWV2M3poaVdUcTd5bGZ6Y19HUFlCUHNlQjNoc3NES0R2V1NSd2VTUlZic1gx",
+    "date": "2025-07-03T07:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "bd26c8a1f526",
+    "competitor": "ISNetworld",
+    "title": "Borea Construction Implements ISNetworld\u00ae to Standardize Subcontractor Oversight - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNmN2bVo0bXlZaUNHakZTbk5nR01VYUpXUXpfd0dDM29kcmpoN0pmVnVRZWRkRDRKdkZOUWt5UFJFZjBDT2Rab1VPYy1yU0t1WnluV29Gb0VRclNsMGtHNnRJS21VRTM3YU9IOGFkdWJOY2JhaUdHVUNoa1RaT2RNRm1YNDNxSTVrZmJoYTQ2ZlFDZEZFMTk4WWJFSFdmT19xVU9CVkx1QXlRRXlESW1ZNGZRaVZPT0toR2VVZ0o3OEZaenl4eDlfNUpKTkswVDZocHc?oc=5\" target=\"_blank\">Borea Construction Implements ISNetworld\u00ae to Standardize Subcontractor Oversight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNmN2bVo0bXlZaUNHakZTbk5nR01VYUpXUXpfd0dDM29kcmpoN0pmVnVRZWRkRDRKdkZOUWt5UFJFZjBDT2Rab1VPYy1yU0t1WnluV29Gb0VRclNsMGtHNnRJS21VRTM3YU9IOGFkdWJOY2JhaUdHVUNoa1RaT2RNRm1YNDNxSTVrZmJoYTQ2ZlFDZEZFMTk4WWJFSFdmT19xVU9CVkx1QXlRRXlESW1ZNGZRaVZPT0toR2VVZ0o3OEZaenl4eDlfNUpKTkswVDZocHc",
+    "date": "2025-07-01T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "5046994b1e05",
+    "competitor": "Unknown",
+    "title": "Case Summary: Mosaic Chapter 11 - Bondoro",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE01SURxaFNYTmJfNExDeGNHWUFwU2ZMS1J4TWlsZnlHOGVEc2k4N19VeUVjSkQwajhGeGxKYWdtX0I?oc=5\" target=\"_blank\">Case Summary: Mosaic Chapter 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bondoro</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE01SURxaFNYTmJfNExDeGNHWUFwU2ZMS1J4TWlsZnlHOGVEc2k4N19VeUVjSkQwajhGeGxKYWdtX0I",
+    "date": "2025-06-11T07:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "afc8ceaff7ab",
+    "competitor": "ISNetworld",
+    "title": "Clearlight Energy Implements ISNetworld\u00ae to Create a Scalable Contractor Management Program - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaXZFOXpDSTR0V0NmQm82QWU3ZHc2Y3VEc1lHODFGU2lpNkpNR0sxMU1FXzMwVzQ0Vm04dGNzYzhoaEF4RjNUdmhYa0dpMDE2eTFRZXZJc3hVQlRFNmdIejhUUElRZkh5OVRxNnl4TzZJV3NseEx3RzVOMVZ0cnVvWW03YXF6VjNQa1hGZmVOcGFOWURFYWROcTcycGxWT0I3UnB0dFdOWVVZSTB2a3A1UnZOM05td0VrdW1qZ2pmeFM5dGstNGhObUxVbWdsektJZVNud1VoOG5xWXRYWGVZeA?oc=5\" target=\"_blank\">Clearlight Energy Implements ISNetworld\u00ae to Create a Scalable Contractor Management Program</a>&nbsp;&nbsp;<font color=\"#6f6f",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaXZFOXpDSTR0V0NmQm82QWU3ZHc2Y3VEc1lHODFGU2lpNkpNR0sxMU1FXzMwVzQ0Vm04dGNzYzhoaEF4RjNUdmhYa0dpMDE2eTFRZXZJc3hVQlRFNmdIejhUUElRZkh5OVRxNnl4TzZJV3NseEx3RzVOMVZ0cnVvWW03YXF6VjNQa1hGZmVOcGFOWURFYWROcTcycGxWT0I3UnB0dFdOWVVZSTB2a3A1UnZOM05td0VrdW1qZ2pmeFM5dGstNGhObUxVbWdsektJZVNud1VoOG5xWXRYWGVZeA",
+    "date": "2025-06-05T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "9db899cd8d20",
+    "competitor": "Avetta",
+    "title": "2025 Avetta Summit Series Aims to Help Customers Build Confidence Beyond Compliance - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMmRTQ3UwdHRrc09QVHJkdGdWTkZXNXBlWmRaMFdCYXZ5SGFqZXlRRmNkTEFwRFdnX2I1TkFJWURLRUt3c1ZNZGk5TE9EYnlGa0t1TExKTmhwY2hiSG5RaGFjeHFmX2ZfM2ZYNDJIR2hwX09uNnl0M3lOR3loS1B1d2d4TGdqSWtMVjRUOGY2Wjg2V0I0cGVwa1JzYzBZdld1cndZUUlBblpENV9zN2pLTS0zYTJ6d05kNWR0OGk0bHJLV0FSaFcxNnJRSElTdlpVbnJ3eDNmdw?oc=5\" target=\"_blank\">2025 Avetta Summit Series Aims to Help Customers Build Confidence Beyond Compliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</f",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMmRTQ3UwdHRrc09QVHJkdGdWTkZXNXBlWmRaMFdCYXZ5SGFqZXlRRmNkTEFwRFdnX2I1TkFJWURLRUt3c1ZNZGk5TE9EYnlGa0t1TExKTmhwY2hiSG5RaGFjeHFmX2ZfM2ZYNDJIR2hwX09uNnl0M3lOR3loS1B1d2d4TGdqSWtMVjRUOGY2Wjg2V0I0cGVwa1JzYzBZdld1cndZUUlBblpENV9zN2pLTS0zYTJ6d05kNWR0OGk0bHJLV0FSaFcxNnJRSElTdlpVbnJ3eDNmdw",
+    "date": "2025-06-05T07:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "de0c6571e351",
+    "competitor": "ISNetworld",
+    "title": "ISN\u00ae Celebrates RAVS 360\u2122 Assessments Milestone - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkFuRGo1X25ZYWNmeTJCakY1ZGlGSzV5WXBHNmhGXzFCaTlwb3dZenczYlZEbHNPZnprLXE2d1E1dllxeG5kYjUxMHBuT2l1cC1KMnlnck42S3ZuaUdqWVh4R1k5aUZxdFlKVVpHanNfSWY0Tjk3cDJCdXpvMzR1YWRZZXVkYmJLa2w0eHNVTmlfMWdUTmQ0d2twc3JLS2VIajZidA?oc=5\" target=\"_blank\">ISN\u00ae Celebrates RAVS 360\u2122 Assessments Milestone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkFuRGo1X25ZYWNmeTJCakY1ZGlGSzV5WXBHNmhGXzFCaTlwb3dZenczYlZEbHNPZnprLXE2d1E1dllxeG5kYjUxMHBuT2l1cC1KMnlnck42S3ZuaUdqWVh4R1k5aUZxdFlKVVpHanNfSWY0Tjk3cDJCdXpvMzR1YWRZZXVkYmJLa2w0eHNVTmlfMWdUTmQ0d2twc3JLS2VIajZidA",
+    "date": "2025-05-29T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "f65cb8ba21f6",
+    "competitor": "Avetta",
+    "title": "OBITUARY: Avetta Joyce Snelling - Davidson County Source",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5ieFpuak5TQVVBdExmTjJVbnR1UWlvYXVCeFB6bE4zeGtHc1N2c3FnTzE5RElYZmJ0ZWhaYWVOdmlpSGY2cDI2X2xrbXR1ODNTUGNEZWY0RmFwMHltTVROdlgwUU9YcjJ4NjBfc3hIUm04Zw?oc=5\" target=\"_blank\">OBITUARY: Avetta Joyce Snelling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Davidson County Source</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ieFpuak5TQVVBdExmTjJVbnR1UWlvYXVCeFB6bE4zeGtHc1N2c3FnTzE5RElYZmJ0ZWhaYWVOdmlpSGY2cDI2X2xrbXR1ODNTUGNEZWY0RmFwMHltTVROdlgwUU9YcjJ4NjBfc3hIUm04Zw",
+    "date": "2025-05-29T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "e1ae7a5677f5",
+    "competitor": "Unknown",
+    "title": "Beyond Compliance: Unlocking the Safety Drivers Hidden in Your Supply Chain - Canadian Occupational Safety",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNWEktbzhpT2hhX2xONmVRckhvOEp5SlFGU21hMWRfNWhQNWhIUFlWcHM2OE9lYmJwcVhyWnBIa0I0R2VoZldON09wM1JlaERDczRhdmI0dDVVTng3VjlSZXo1eWJFRmFGY3gwYkNoT2JDNlZKVjFlWldnWWtMcnBpUG1DOXZpSFFIMlZkNFFQRUZ2Q3d2SmdmenpvOTE2cjJ0cGwzdVY0LVBwTERDZE8zcW5XelVjZ0pGRVpEUWQ4VlhZNkth?oc=5\" target=\"_blank\">Beyond Compliance: Unlocking the Safety Drivers Hidden in Your Supply Chain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Canadian Occupational Safety</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWEktbzhpT2hhX2xONmVRckhvOEp5SlFGU21hMWRfNWhQNWhIUFlWcHM2OE9lYmJwcVhyWnBIa0I0R2VoZldON09wM1JlaERDczRhdmI0dDVVTng3VjlSZXo1eWJFRmFGY3gwYkNoT2JDNlZKVjFlWldnWWtMcnBpUG1DOXZpSFFIMlZkNFFQRUZ2Q3d2SmdmenpvOTE2cjJ0cGwzdVY0LVBwTERDZE8zcW5XelVjZ0pGRVpEUWQ4VlhZNkth",
+    "date": "2025-05-28T13:56:29+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "6d3d44bec48e",
+    "competitor": "ISNetworld",
+    "title": "ISN\u00ae Expands Partnership with Eaton for Global Safety Standardization | User | statesmanexaminer.com - FinancialContent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPelpnVzhkM3BxRjBKLWtGQ2luT2dxUVhfZVBhMW9nVnNjcmtJTjAyVUVVR2Q2VkJ4azE0TDRXWDdYUGlsdGgta0lqSy1VUHNFaHQwaE1fMklJdUFvdllOVzZoSTRTSFpHcmJrWUJ0NGdBYzg0MXMtZGVQSHBkUVV6YmpxMFVsanZOMHNkdGprX2g3amRqMFJBLTZJZFA3LTNHVkJGZG43M0hkQzJPT1lwSWI2WjdCNTdpTWp1NTRCaFFMZlJubW5PajBqVHByZURCRkowSGVvZXQ?oc=5\" target=\"_blank\">ISN\u00ae Expands Partnership with Eaton for Global Safety Standardization | User | statesmanexaminer.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPelpnVzhkM3BxRjBKLWtGQ2luT2dxUVhfZVBhMW9nVnNjcmtJTjAyVUVVR2Q2VkJ4azE0TDRXWDdYUGlsdGgta0lqSy1VUHNFaHQwaE1fMklJdUFvdllOVzZoSTRTSFpHcmJrWUJ0NGdBYzg0MXMtZGVQSHBkUVV6YmpxMFVsanZOMHNkdGprX2g3amRqMFJBLTZJZFA3LTNHVkJGZG43M0hkQzJPT1lwSWI2WjdCNTdpTWp1NTRCaFFMZlJubW5PajBqVHByZURCRkowSGVvZXQ",
+    "date": "2025-05-27T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "b6e6ec4a4cb3",
+    "competitor": "ISNetworld",
+    "title": "Owens Corning Collaborates with ISN to Improve Worker Safety and Compliance - Roofing Contractor",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa1ZVdXhvUmo3eVQ4MjlpZnF4M3ZQZWdkMzJNRTVMMVJxX09yLXlXaGY4RUF1OFBiZWZQSUw2OE5lQWJFNk8wVWJRN293RVBadVpTX21SOEREc3dfNkpYZ3NfRzFZTXR4dlB0TnBmY0Z1ekJ4RDNfY1l1dWpUTHpZT1B4X1d6NkxYU0dQVlNheGNVWFBweUNGeHNlNlFfTzhqVk9ONFpiaFh3VnVXVjdXdTRJOS1VSHpVZzhPSzMybUdoVzQ?oc=5\" target=\"_blank\">Owens Corning Collaborates with ISN to Improve Worker Safety and Compliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Contractor</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa1ZVdXhvUmo3eVQ4MjlpZnF4M3ZQZWdkMzJNRTVMMVJxX09yLXlXaGY4RUF1OFBiZWZQSUw2OE5lQWJFNk8wVWJRN293RVBadVpTX21SOEREc3dfNkpYZ3NfRzFZTXR4dlB0TnBmY0Z1ekJ4RDNfY1l1dWpUTHpZT1B4X1d6NkxYU0dQVlNheGNVWFBweUNGeHNlNlFfTzhqVk9ONFpiaFh3VnVXVjdXdTRJOS1VSHpVZzhPSzMybUdoVzQ",
+    "date": "2025-05-22T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "b419729779d0",
+    "competitor": "Unknown",
+    "title": "Outsourced or uncontrolled? Safer contractor and supplier strategies - Canadian Occupational Safety",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWhNOFlkcDFpaGNKVFF4RUxXMzNLZUJYWjNZTGh0LVI1N0JXVi00Vy04LWtLZFdmUnB6T0dNTFBHMjJWQmd6ZXhFd0NzTEM0S1VYQ3JXXzZVTVJMTi11M28tSUtSYzM3VGNpWjMtTXNLUVB4OGJOWW12Z01GTnRpSnQxeWl2MDNSV1VzOFRZYkJxRlVmZFR0S2duU3JNSWJ0QWFZdEVDR0ppdlFHU2VlX29Xc2FCUHpxQmZF?oc=5\" target=\"_blank\">Outsourced or uncontrolled? Safer contractor and supplier strategies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Canadian Occupational Safety</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWhNOFlkcDFpaGNKVFF4RUxXMzNLZUJYWjNZTGh0LVI1N0JXVi00Vy04LWtLZFdmUnB6T0dNTFBHMjJWQmd6ZXhFd0NzTEM0S1VYQ3JXXzZVTVJMTi11M28tSUtSYzM3VGNpWjMtTXNLUVB4OGJOWW12Z01GTnRpSnQxeWl2MDNSV1VzOFRZYkJxRlVmZFR0S2duU3JNSWJ0QWFZdEVDR0ppdlFHU2VlX29Xc2FCUHpxQmZF",
+    "date": "2025-05-22T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "a8b91cca3725",
+    "competitor": "ISNetworld",
+    "title": "10-Year Partnership Between ISN\u00ae and Yara International Enhances Ongoing Commitment to Contractor Safety - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb01QejlWUHFhWExIUktnY3BET0NmRjl3UTZ5cUdwX3RMT2xQTy13ZWVFOEw4eEFBTDdlWkpSS2N6SGFyb2N6OW1RVllRN21PRGxqd2VOcE9XZktwVi1MYUh1TjdUcXQwX1h1V25TbHA5RHNHaGlMUmtaa1RkTEJkdEstYmlyaVhqSUU2bXFFMUxxMFRUQzRJcldMc3hhZkZsSzZlWk10M1NUaWRtQXg5VzVodW04bDZLem9DS1g5MFVCN2V4ZnBtQXhyZjhIRmdSQ19xYkM2aGxsLVpCMFp3bnhudHF5WTlxUFlHUTBUOVh5QQ?oc=5\" target=\"_blank\">10-Year Partnership Between ISN\u00ae and Yara International Enhances Ongoing Commitment to Contractor Saf",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb01QejlWUHFhWExIUktnY3BET0NmRjl3UTZ5cUdwX3RMT2xQTy13ZWVFOEw4eEFBTDdlWkpSS2N6SGFyb2N6OW1RVllRN21PRGxqd2VOcE9XZktwVi1MYUh1TjdUcXQwX1h1V25TbHA5RHNHaGlMUmtaa1RkTEJkdEstYmlyaVhqSUU2bXFFMUxxMFRUQzRJcldMc3hhZkZsSzZlWk10M1NUaWRtQXg5VzVodW04bDZLem9DS1g5MFVCN2V4ZnBtQXhyZjhIRmdSQ19xYkM2aGxsLVpCMFp3bnhudHF5WTlxUFlHUTBUOVh5QQ",
+    "date": "2025-05-14T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "19d4f5e6986d",
+    "competitor": "Unknown",
+    "title": "Programmable high-sensitivity iontronic pressure sensors support broad human-interactive perception and identification - Nature",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCYTAyU2p1TDNXYlZ2SjVGZEtKOTRvYlgxbmdxcllqSDl4MGpVdlNBLWZOWGJua09kSW9aUGt5MjQwYzlNVHNhM1ZIeTBPSkR1ZFhaTzZwLVlCcFFhMllB?oc=5\" target=\"_blank\">Programmable high-sensitivity iontronic pressure sensors support broad human-interactive perception and identification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCYTAyU2p1TDNXYlZ2SjVGZEtKOTRvYlgxbmdxcllqSDl4MGpVdlNBLWZOWGJua09kSW9aUGt5MjQwYzlNVHNhM1ZIeTBPSkR1ZFhaTzZwLVlCcFFhMllB",
+    "date": "2025-05-08T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "d0d7d48a2a8f",
+    "competitor": "ISNetworld",
+    "title": "J.R. Simplot Leverages ISN\u00ae In-Person Support to Strengthen Contractor Management Program - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxORHJxOUVKVTZXQTYwVW4wYktnNm9sTzY5c1hobFhSREIzSnpvQnQtVDRTb2I4T0U3STItdThCVlpCblU1dUxacWRjdlNvM25yaHZoYzg5QWFYT2tuYWU0MkFsZHd1MWZqVWVvUW5NUEhHQ1RvWnNIazM1a21yZXo0a24yeGhMWWZtSER2d2xmZkpXZXpBRUJibEduWFc5TzB3LWFhbm4zb2gyMjdCQ1JjdjRVSDBNaTRtSlI0aXZQVHRoZld5Y2RObk9qOTdpQ0p2bUdma2tZSUdBNUs2Umc?oc=5\" target=\"_blank\">J.R. Simplot Leverages ISN\u00ae In-Person Support to Strengthen Contractor Management Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">B",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORHJxOUVKVTZXQTYwVW4wYktnNm9sTzY5c1hobFhSREIzSnpvQnQtVDRTb2I4T0U3STItdThCVlpCblU1dUxacWRjdlNvM25yaHZoYzg5QWFYT2tuYWU0MkFsZHd1MWZqVWVvUW5NUEhHQ1RvWnNIazM1a21yZXo0a24yeGhMWWZtSER2d2xmZkpXZXpBRUJibEduWFc5TzB3LWFhbm4zb2gyMjdCQ1JjdjRVSDBNaTRtSlI0aXZQVHRoZld5Y2RObk9qOTdpQ0p2bUdma2tZSUdBNUs2Umc",
+    "date": "2025-05-07T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "e3ebb9fe8f74",
+    "competitor": "Avetta",
+    "title": "Avetta Appoints Dawn Andre as Chief Product Officer - citybiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzZ5ZjR1U0JjVFF3ZGx3ei1xMjZyeDFQc21yd195NEUwd0lZRG1KVlNXTThneW94US1PLWFFMkF1dmhmbEhJaVlvRUN5TW45d0tUNkNsVmk3SVhVeXhLcmJoNmJvNkQtejhVLUxfNmJSWWc1SE01ZmxHaDJxRWhVd2hBbFd2RHVfTWFvZk9tMF80N3BC?oc=5\" target=\"_blank\">Avetta Appoints Dawn Andre as Chief Product Officer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citybiz</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzZ5ZjR1U0JjVFF3ZGx3ei1xMjZyeDFQc21yd195NEUwd0lZRG1KVlNXTThneW94US1PLWFFMkF1dmhmbEhJaVlvRUN5TW45d0tUNkNsVmk3SVhVeXhLcmJoNmJvNkQtejhVLUxfNmJSWWc1SE01ZmxHaDJxRWhVd2hBbFd2RHVfTWFvZk9tMF80N3BC",
+    "date": "2025-05-06T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "7e2d6625d5a9",
+    "competitor": "ISNetworld",
+    "title": "Aecon Expands Use of ISNetworld\u00ae to Support Sustainability Initiatives and Enhance Reporting - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWGJVaVFhSUVZWTZWcFZhdHJ2c3BaTHVhRjlmT2g0VWZvWFRrRWhTeXllUFBhcHRPVXktQ2g0TFhDUmF1Y2R1NHJKQ1R4NlF6TFdnTFJtSWhZX2liUnJNc1BWSEI1dmdqNTA0TEEwbjN5aTRLci0xMDRwbHVXa1ZyUTNNMm5MSTRNR1ZlR3BDYjYxMWRIaFJCYTVVZ1FHRDl1dlJ2UzZiaUtTakdTSkpXTGZhZmEtc2wwc2dIRzhhSzNfZG5rWnJUN0l0TnFjX1o5M3d0WU5ObEZhR1JZQUM2R0xn?oc=5\" target=\"_blank\">Aecon Expands Use of ISNetworld\u00ae to Support Sustainability Initiatives and Enhance Reporting</a>&nbsp;&nbsp;<font color=\"#6",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWGJVaVFhSUVZWTZWcFZhdHJ2c3BaTHVhRjlmT2g0VWZvWFRrRWhTeXllUFBhcHRPVXktQ2g0TFhDUmF1Y2R1NHJKQ1R4NlF6TFdnTFJtSWhZX2liUnJNc1BWSEI1dmdqNTA0TEEwbjN5aTRLci0xMDRwbHVXa1ZyUTNNMm5MSTRNR1ZlR3BDYjYxMWRIaFJCYTVVZ1FHRDl1dlJ2UzZiaUtTakdTSkpXTGZhZmEtc2wwc2dIRzhhSzNfZG5rWnJUN0l0TnFjX1o5M3d0WU5ObEZhR1JZQUM2R0xn",
+    "date": "2025-05-05T07:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "d68771f4aae5",
+    "competitor": "ISNetworld",
+    "title": "ISN partners with Safety Function - Canadian Occupational Safety",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQRVdEVmFNUllHbVVsVXB5UnkzRWpZWkcwSmgxbE1jc0N4LXlMTG8xN3R6YTh1akFzSVByWE94am9mYXdQemdNYWd0WXJIN2NXVW9iNEVucHpzbGlNMWJaV2Rza1NmNFV6UnJBZElkU2JndkJzRlB6NGpSM2RXbW0zTnhaYzBVd1NxVmZVZTBPRQ?oc=5\" target=\"_blank\">ISN partners with Safety Function</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Canadian Occupational Safety</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRVdEVmFNUllHbVVsVXB5UnkzRWpZWkcwSmgxbE1jc0N4LXlMTG8xN3R6YTh1akFzSVByWE94am9mYXdQemdNYWd0WXJIN2NXVW9iNEVucHpzbGlNMWJaV2Rza1NmNFV6UnJBZElkU2JndkJzRlB6NGpSM2RXbW0zTnhaYzBVd1NxVmZVZTBPRQ",
+    "date": "2025-05-01T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "19d6c52a21bb",
+    "competitor": "ISNetworld",
+    "title": "ISN\u00ae Introduces Energy-Based Safety Trainings Through Partnership with Safety Function - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxObVFIUnZpM0V6bkVxc2tWQ1N4a2dtMDFmcUc0OEMwb0VFQzk3enZNS0hvUVZDamU0QkFJYXREMEl6ZG1McmxwSzRQdGpGaC0yNkQ1ZHVsNjlBemlJOHNvdUJMYi1tdnRYNGZsaEZaQ0dMRDNkZlYzdHZneG9OejVXYkE3NWdZOGwwNFh1YXd0aGlKWl8wWUM1ZURRV292QTdfdWpmV2tLY2VseUotYWhHSFc5Nm9uVTJyTWI2ZlUwYUdqOTBrbm9TOHVUWVRydG1JcFRXWURnMWR6QQ?oc=5\" target=\"_blank\">ISN\u00ae Introduces Energy-Based Safety Trainings Through Partnership with Safety Function</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business ",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObVFIUnZpM0V6bkVxc2tWQ1N4a2dtMDFmcUc0OEMwb0VFQzk3enZNS0hvUVZDamU0QkFJYXREMEl6ZG1McmxwSzRQdGpGaC0yNkQ1ZHVsNjlBemlJOHNvdUJMYi1tdnRYNGZsaEZaQ0dMRDNkZlYzdHZneG9OejVXYkE3NWdZOGwwNFh1YXd0aGlKWl8wWUM1ZURRV292QTdfdWpmV2tLY2VseUotYWhHSFc5Nm9uVTJyTWI2ZlUwYUdqOTBrbm9TOHVUWVRydG1JcFRXWURnMWR6QQ",
+    "date": "2025-04-29T07:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "67d622549c64",
+    "competitor": "KPA Flex",
+    "title": "KPA Facilitates Over 12 Million Workplace Safety Online Trainings Nationwide - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQlFkbVZxOTFxLXc3S1F0OEpJN3FvUWw2ZnU0X3Jidi1ocWFJdFR4a2JXSUl4aUtaT2hrcFh0NllocnNGUEtZeEVGOWRJNy1MS1p4SWNRcmdaSUxVZXJ2OVBzamEtUnRMamtSLUVENnlmZ3kwd1liQlNPeTRjdnp3bGhfVU9pdDRvUlo3cV9laTU2UTRXcXRoUHdTRUI1eVZRVUg0alhPTGFUeTlRYnE0NnVfUVJVdlU5M1VlS0YtWkhyWEZRSTZ1VVFIUlA0aHlFSHBLWmJKaGhNSEkwaEt5b3Fn?oc=5\" target=\"_blank\">KPA Facilitates Over 12 Million Workplace Safety Online Trainings Nationwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNews",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQlFkbVZxOTFxLXc3S1F0OEpJN3FvUWw2ZnU0X3Jidi1ocWFJdFR4a2JXSUl4aUtaT2hrcFh0NllocnNGUEtZeEVGOWRJNy1MS1p4SWNRcmdaSUxVZXJ2OVBzamEtUnRMamtSLUVENnlmZ3kwd1liQlNPeTRjdnp3bGhfVU9pdDRvUlo3cV9laTU2UTRXcXRoUHdTRUI1eVZRVUg0alhPTGFUeTlRYnE0NnVfUVJVdlU5M1VlS0YtWkhyWEZRSTZ1VVFIUlA0aHlFSHBLWmJKaGhNSEkwaEt5b3Fn",
+    "date": "2025-04-17T07:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "45f9e3497540",
+    "competitor": "Avetta",
+    "title": "PSC LIVE Chicago: Exclusive Q&A With Caldwell Hart, Avetta - Procurement Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbm4yN1pXZFFPUFlXbmhWUlJiYnlVZmY1RVZfTVBSRUVENHpmb2M0enMzbVVOdFZvenFpaFZGZVFRM3lQOGpjRTRMMF9wRkRvZ1BTYlA3eVFMU2Rpd0I2ZXNLdkNTelFXYUFOX3pZVFlLRWxZN2N4Y2FxNW1PSHlNVnBCcjFpclBaVEdIS0tJVldoRW1ndGs4Q3hnOVdRWXBCd0cyZURjYw?oc=5\" target=\"_blank\">PSC LIVE Chicago: Exclusive Q&amp;A With Caldwell Hart, Avetta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Procurement Magazine</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbm4yN1pXZFFPUFlXbmhWUlJiYnlVZmY1RVZfTVBSRUVENHpmb2M0enMzbVVOdFZvenFpaFZGZVFRM3lQOGpjRTRMMF9wRkRvZ1BTYlA3eVFMU2Rpd0I2ZXNLdkNTelFXYUFOX3pZVFlLRWxZN2N4Y2FxNW1PSHlNVnBCcjFpclBaVEdIS0tJVldoRW1ndGs4Q3hnOVdRWXBCd0cyZURjYw",
+    "date": "2025-04-14T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "200dc7d38e3e",
+    "competitor": "Unknown",
+    "title": "Call for prequalification for the construction of the Bukojcan \u2013 Kicevo highway - gazeta express",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbGpWWUd1VDZKVUY3aTBrRndpRy03OS1YRC1oRzdMQTVYSS1TaERrZFpIWXpBZlhHUU9ENHAydW52Q2t4Z0h1MzQzLWFqNUxSNjZjX0xXTlFnbi14TDJxZXR3OGR5cEFzZkVnMmVETzFDUFlWdXpISmYzcEw5X1E4MDBXb2FVeXhUOTZ0SDBmUXJqOUtCeDl0cE9pOXhENlhCbXV1aXNrQ08?oc=5\" target=\"_blank\">Call for prequalification for the construction of the Bukojcan \u2013 Kicevo highway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gazeta express</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbGpWWUd1VDZKVUY3aTBrRndpRy03OS1YRC1oRzdMQTVYSS1TaERrZFpIWXpBZlhHUU9ENHAydW52Q2t4Z0h1MzQzLWFqNUxSNjZjX0xXTlFnbi14TDJxZXR3OGR5cEFzZkVnMmVETzFDUFlWdXpISmYzcEw5X1E4MDBXb2FVeXhUOTZ0SDBmUXJqOUtCeDl0cE9pOXhENlhCbXV1aXNrQ08",
+    "date": "2025-04-02T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "7bf86aeb820d",
+    "competitor": "ISNetworld",
+    "title": "Blackstone explores $6bn exit from ISN Software amid surge in compliance tech demand - Private Equity Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNcFo1T1VFV1dPR3BWZ1F0eHRud2ZMQk50N1RwRGlOMXBtT0JXVG9NWnRxR0VKbkpoRHQ4RDdiRm96WjJBMldRYjBDTFN3SEhSWTlxTEkxcmItMVJJajFveEdHTU5FdmxmWnZHN2Y1dFMwb1ZObkNCd09Ga1VyTnNENnJKTk51VnpDNV9SLTFSS0dDTjJ4WF9mbWVyVEhLM3NpMmp6TldZSFZzclV3?oc=5\" target=\"_blank\">Blackstone explores $6bn exit from ISN Software amid surge in compliance tech demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Private Equity Insights</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcFo1T1VFV1dPR3BWZ1F0eHRud2ZMQk50N1RwRGlOMXBtT0JXVG9NWnRxR0VKbkpoRHQ4RDdiRm96WjJBMldRYjBDTFN3SEhSWTlxTEkxcmItMVJJajFveEdHTU5FdmxmWnZHN2Y1dFMwb1ZObkNCd09Ga1VyTnNENnJKTk51VnpDNV9SLTFSS0dDTjJ4WF9mbWVyVEhLM3NpMmp6TldZSFZzclV3",
+    "date": "2025-03-28T16:24:00+00:00",
+    "tags": [
+      "Analytics",
+      "Announcement"
+    ],
+    "impact_score": 0.55,
+    "severity": "info"
+  },
+  {
+    "id": "a0cd64cf6b82",
+    "competitor": "ISNetworld",
+    "title": "ISN Software reportedly exploring $6bn sale - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNUpDWVJNcS0xTHQ0MkhraUx2cEhvdkN1X0R4R0J3Qzl1M0NtOGRhS29sZFlzbEV6LWlITnhnMWh0REduU1g1WWg0QmZENHY0U0FUOFdldnIzRFVwQ2NzNGw4LXloTDg2TDZMSl9lZmhsRkxuMjM1cDlXaUk5UFpYQXh4V0FxTkk0clBn?oc=5\" target=\"_blank\">ISN Software reportedly exploring $6bn sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNUpDWVJNcS0xTHQ0MkhraUx2cEhvdkN1X0R4R0J3Qzl1M0NtOGRhS29sZFlzbEV6LWlITnhnMWh0REduU1g1WWg0QmZENHY0U0FUOFdldnIzRFVwQ2NzNGw4LXloTDg2TDZMSl9lZmhsRkxuMjM1cDlXaUk5UFpYQXh4V0FxTkk0clBn",
+    "date": "2025-03-28T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "975ccd9d2aae",
+    "competitor": "ISNetworld",
+    "title": "ISN Software reportedly exploring $6bn sale - verdict.co.uk",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NazhWZDFoazBTZzlzZnkxSnFjeVB6eEp4ek5qYXFUVmwxMDItYTVlVU1LYW1qNjNTSGpPV2t2Y1N5dElMZzBxdWVUUVVTMEpRUXBnNmVvWGtwWlRIUnRQTHo5cw?oc=5\" target=\"_blank\">ISN Software reportedly exploring $6bn sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">verdict.co.uk</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NazhWZDFoazBTZzlzZnkxSnFjeVB6eEp4ek5qYXFUVmwxMDItYTVlVU1LYW1qNjNTSGpPV2t2Y1N5dElMZzBxdWVUUVVTMEpRUXBnNmVvWGtwWlRIUnRQTHo5cw",
+    "date": "2025-03-28T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "d4bcc0c90bc6",
+    "competitor": "ISNetworld",
+    "title": "Blackstone-Backed Compliance Tech Firm ISN Mulls $6 Billion Sale - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNUWpjZlhpdklUMTctMnBGem1oazV2RHZPMGFPbFI4NFhpTnUtRkV5bFY3Nk1QRThKaVpFUnNjOGQ2WDlvQk9OeGNmRFR1TDd3SUI5aXVmQVZyMG9OQlgwYjN6YU9ja0daOXNMMjNiTVpmYjhlVnVtS2lacFU5UHY0MDNZZDVfZVBBTFV2UVlxLTR3ZDFOVEt6NzRPOERFV05vVWVvYklUUXpsc1hfdHdReFVtN3Y?oc=5\" target=\"_blank\">Blackstone-Backed Compliance Tech Firm ISN Mulls $6 Billion Sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUWpjZlhpdklUMTctMnBGem1oazV2RHZPMGFPbFI4NFhpTnUtRkV5bFY3Nk1QRThKaVpFUnNjOGQ2WDlvQk9OeGNmRFR1TDd3SUI5aXVmQVZyMG9OQlgwYjN6YU9ja0daOXNMMjNiTVpmYjhlVnVtS2lacFU5UHY0MDNZZDVfZVBBTFV2UVlxLTR3ZDFOVEt6NzRPOERFV05vVWVvYklUUXpsc1hfdHdReFVtN3Y",
+    "date": "2025-03-27T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "edd45432aae4",
+    "competitor": "Avetta",
+    "title": "Avetta joins PSC LIVE Chicago as its Newest Sponsor - Procurement Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBPOUo1T3FSaXgwSHREYTl1SDBMTW9kSFBpM3EwWEZvcDIzNDFiUnpveUxET1J2X3ZXaGZLWGw2YVpiN3ZXMmV3bkdmdEN4emtPT29kU0ljazNZRjJTTGctN3pkazAyWHdadE5ENTM4eDBNSThIT3ZzaE1MbzBBZw?oc=5\" target=\"_blank\">Avetta joins PSC LIVE Chicago as its Newest Sponsor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Procurement Magazine</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPOUo1T3FSaXgwSHREYTl1SDBMTW9kSFBpM3EwWEZvcDIzNDFiUnpveUxET1J2X3ZXaGZLWGw2YVpiN3ZXMmV3bkdmdEN4emtPT29kU0ljazNZRjJTTGctN3pkazAyWHdadE5ENTM4eDBNSThIT3ZzaE1MbzBBZw",
+    "date": "2025-03-20T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "3ea7e48de393",
+    "competitor": "VendorPM",
+    "title": "PropTech Leader VendorPM Expands Its Platform with Contract Management, Creating Industry\u2019s First End-to-End Vendor Lifecycle Management Solution - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxOU2VWbkhhMzZncHlhbGJxWkNQLWpPTXF2X0tJTURnRTYxOHdTS2F2T0YxQ3QzTmJLREY5V1U0dGZDS0Ryc2dQSzZtdHFFbVBqLVA1WGJYbHE0X1o5RHZuRFZoQi13aGtJeTkxbFdTSzJrVjBFeTU1c0hyZFdfdUdHMURhWTFsUUJfeFI1VmZrWU9ueUNrRmhaS2J0cTNidEdQazFwdnRaRzFoZF9jdkp6RlZNZHpSNnhtWkYtYWx4VXNBcXEtM0lwY2pta0lEY3MtbHlxWXk3aHhvZTJONy1yZU1ERERJU3lCdlNOMHF5M1JXaDZfTnlDTWw2NDJPMzVoNGp2OVEwN1BrV0ZjUjdjY29aS25xQTc0anZ6cnREYzY1NWlQOU44?oc=5\" target=\"_blank\">PropTech Leader VendorPM Expand",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOU2VWbkhhMzZncHlhbGJxWkNQLWpPTXF2X0tJTURnRTYxOHdTS2F2T0YxQ3QzTmJLREY5V1U0dGZDS0Ryc2dQSzZtdHFFbVBqLVA1WGJYbHE0X1o5RHZuRFZoQi13aGtJeTkxbFdTSzJrVjBFeTU1c0hyZFdfdUdHMURhWTFsUUJfeFI1VmZrWU9ueUNrRmhaS2J0cTNidEdQazFwdnRaRzFoZF9jdkp6RlZNZHpSNnhtWkYtYWx4VXNBcXEtM0lwY2pta0lEY3MtbHlxWXk3aHhvZTJONy1yZU1ERERJU3lCdlNOMHF5M1JXaDZfTnlDTWw2NDJPMzVoNGp2OVEwN1BrV0ZjUjdjY29aS25xQTc0anZ6cnREYzY1NWlQOU44",
+    "date": "2025-03-03T08:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "2605dd98e0e7",
+    "competitor": "VendorPM",
+    "title": "How VendorPM is Eliminating Silos in Contract Management - Procurement Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3FpVDNaeUptWWVuYU1sTjZVa2NvU3otMjdvSndQQjc4cU1zMl94X25ZSS01UDJYZ1FmQkR6dUxOOC12UUVVMGhHSUxCbjRoMmJoWlV0M0Z6eDlyNmZnV0dmd0QzTFVBT19UOUhkRjROamdzTVFNZVE1cVpDbU85QXRUdmY4aWk4eWtNMTZ4T1BxTkV2cHc?oc=5\" target=\"_blank\">How VendorPM is Eliminating Silos in Contract Management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Procurement Magazine</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3FpVDNaeUptWWVuYU1sTjZVa2NvU3otMjdvSndQQjc4cU1zMl94X25ZSS01UDJYZ1FmQkR6dUxOOC12UUVVMGhHSUxCbjRoMmJoWlV0M0Z6eDlyNmZnV0dmd0QzTFVBT19UOUhkRjROamdzTVFNZVE1cVpDbU85QXRUdmY4aWk4eWtNMTZ4T1BxTkV2cHc",
+    "date": "2025-03-03T08:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "8861ea9f4923",
+    "competitor": "ISNetworld",
+    "title": "U.S. Facilities, Inc. Expands Use of ISNetworld\u00ae Across Additional Sectors - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUnV5azVnSHdTcmJjMWRUUmdlUjJabXZRNVRacHlhby1ybF9OY0I2YXkxdGpiVkd6aUFLMEwtMHN2bVdySVpwR092em9idGE1djFoTUp2dHRRcnFzSHl3dGx5MlgyV2FYN2VScXFUQWhXWEY3c0dJM3BkcjVnT2xTRTBkSnltcXlSNDBGVkRteDZsTzhzQkFTOEZpOUllTzB2eF9TbzFWX21RSnduRkVwYThNWjdETTVuWUlQNFVNVEV5UDV6MTZlRQ?oc=5\" target=\"_blank\">U.S. Facilities, Inc. Expands Use of ISNetworld\u00ae Across Additional Sectors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUnV5azVnSHdTcmJjMWRUUmdlUjJabXZRNVRacHlhby1ybF9OY0I2YXkxdGpiVkd6aUFLMEwtMHN2bVdySVpwR092em9idGE1djFoTUp2dHRRcnFzSHl3dGx5MlgyV2FYN2VScXFUQWhXWEY3c0dJM3BkcjVnT2xTRTBkSnltcXlSNDBGVkRteDZsTzhzQkFTOEZpOUllTzB2eF9TbzFWX21RSnduRkVwYThNWjdETTVuWUlQNFVNVEV5UDV6MTZlRQ",
+    "date": "2025-02-24T08:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "44728727e797",
+    "competitor": "Unknown",
+    "title": "The New Central Digital Platform: What You Need to Know - Roofing Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFFaTE5jUmEwWkgtTmp2OHNLU2o4Ri1uakRVQmktSjVYQXZFZ3EyWEttMGxkU3NUZzR2ekhOejNiSFBNYW9MWncwcmdEOGxmV3hna1NKRzR3a3lkV2dYcHlxdkRlR19OZ2hkR0pFdGVSenRYY3IxeHg0MHFiZ2pkR2tGVHpmbWZnZnc?oc=5\" target=\"_blank\">The New Central Digital Platform: What You Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFFaTE5jUmEwWkgtTmp2OHNLU2o4Ri1uakRVQmktSjVYQXZFZ3EyWEttMGxkU3NUZzR2ekhOejNiSFBNYW9MWncwcmdEOGxmV3hna1NKRzR3a3lkV2dYcHlxdkRlR19OZ2hkR0pFdGVSenRYY3IxeHg0MHFiZ2pkR2tGVHpmbWZnZnc",
+    "date": "2025-02-18T08:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "f7aad5923324",
+    "competitor": "Unknown",
+    "title": "Saudi Arabia launches new financing products to boost construction sector - Arab News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XN1VqZkFiak5lYVJtMDRDUENsQ3N3SEVjcGhwazlrQ1pOU0YtLVZDSUZudURRb2diZWtyLWVGV1RyX2JfQUdJaV8yS0d3R2c2dC0w?oc=5\" target=\"_blank\">Saudi Arabia launches new financing products to boost construction sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arab News</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XN1VqZkFiak5lYVJtMDRDUENsQ3N3SEVjcGhwazlrQ1pOU0YtLVZDSUZudURRb2diZWtyLWVGV1RyX2JfQUdJaV8yS0d3R2c2dC0w",
+    "date": "2025-02-13T08:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "bfec3c0ee3dd",
+    "competitor": "Unknown",
+    "title": "Contractors Authority signs MoU with DGDA, Diriyah - \u0627\u0631\u0642\u0627\u0645",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE95eTRVcW9CN2tUS2FnNFk5TW1IRDFicDFzdFd2bXdUTklnSHJZTHEyWXREZk5Sc1A5WnJKeEFlY0tWNmgxdTRDUW1sTnJtYk5jX0ZKV0dQUFJOUGJrVDg2UjlRM1JDbnNQb3c?oc=5\" target=\"_blank\">Contractors Authority signs MoU with DGDA, Diriyah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0627\u0631\u0642\u0627\u0645</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95eTRVcW9CN2tUS2FnNFk5TW1IRDFicDFzdFd2bXdUTklnSHJZTHEyWXREZk5Sc1A5WnJKeEFlY0tWNmgxdTRDUW1sTnJtYk5jX0ZKV0dQUFJOUGJrVDg2UjlRM1JDbnNQb3c",
+    "date": "2025-02-13T08:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "23f7b839cde1",
+    "competitor": "Avetta",
+    "title": "PSC LIVE: Sustainability Welcomes Avetta as its New Sponsor - Procurement Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOeHpNQ0xjdGNybnV4RHk1SGxNSmpVbmZJc2JKcDhhNHVXNHVBZW02NFBjZHhSWk9XcGU2NDh4WWg1ckNKb0lMTzBDY0JiYUE2RzE0T2tMeGgtcEdhT19zQ2NRNHA0emtLUGIzb3dWUTFWdlEtaVhkU0o0VVdoQzZlTFpHX0VBckw2SXdMTEp5OGhFblMxT0NwUg?oc=5\" target=\"_blank\">PSC LIVE: Sustainability Welcomes Avetta as its New Sponsor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Procurement Magazine</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeHpNQ0xjdGNybnV4RHk1SGxNSmpVbmZJc2JKcDhhNHVXNHVBZW02NFBjZHhSWk9XcGU2NDh4WWg1ckNKb0lMTzBDY0JiYUE2RzE0T2tMeGgtcEdhT19zQ2NRNHA0emtLUGIzb3dWUTFWdlEtaVhkU0o0VVdoQzZlTFpHX0VBckw2SXdMTEp5OGhFblMxT0NwUg",
+    "date": "2025-01-16T08:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "f3720c04cb47",
+    "competitor": "Unknown",
+    "title": "Highwire Delivers Contractor Success Through Innovation and Growth - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmlnUjk5MXZwWXQ2Rmo0M0ZpTng0TTdPa3ZNeWhPYTF1TExYT2xidkpBVHZVUlB0SGZoRzZVQTlORGRWMTFwYWR2QmZKQ01rbE5qdzNpRFo2ZW4tSnotaW56VXdENTRjNG5GbkhQbF9TSWJjOGpiNWMxcGQtclM0YXlRcE90ZWhfLTk3ckIxYjJ2aEtzOWZaOGhpeUdFQjRkZ25obktGWnR6THNtODF1MUZsZGFSRTMtc2JTOVBGTQ?oc=5\" target=\"_blank\">Highwire Delivers Contractor Success Through Innovation and Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmlnUjk5MXZwWXQ2Rmo0M0ZpTng0TTdPa3ZNeWhPYTF1TExYT2xidkpBVHZVUlB0SGZoRzZVQTlORGRWMTFwYWR2QmZKQ01rbE5qdzNpRFo2ZW4tSnotaW56VXdENTRjNG5GbkhQbF9TSWJjOGpiNWMxcGQtclM0YXlRcE90ZWhfLTk3ckIxYjJ2aEtzOWZaOGhpeUdFQjRkZ25obktGWnR6THNtODF1MUZsZGFSRTMtc2JTOVBGTQ",
+    "date": "2025-01-16T08:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "b50ee3b9d8d3",
+    "competitor": "Unknown",
+    "title": "Seven Issues Affecting the Construction Industry in 2025 - Roofing Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNVkVNWFNvcVRsdUdEM0FMNWgwVXI5WS1QalB1a2ZlVnJaMUd2WmtlNlJ0elRWTUVaWEtRNWNOQkF2ZnJSWHdZSkVNbE9iNHFWdDFOU3lLMmNySHJMQ1MyN2I0RDhZbFNOc1NVRnhlZ29jdXh0eGY0UmFPejlUSlF5eTg2LU5Canhjc2llaw?oc=5\" target=\"_blank\">Seven Issues Affecting the Construction Industry in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVkVNWFNvcVRsdUdEM0FMNWgwVXI5WS1QalB1a2ZlVnJaMUd2WmtlNlJ0elRWTUVaWEtRNWNOQkF2ZnJSWHdZSkVNbE9iNHFWdDFOU3lLMmNySHJMQ1MyN2I0RDhZbFNOc1NVRnhlZ29jdXh0eGY0UmFPejlUSlF5eTg2LU5Canhjc2llaw",
+    "date": "2024-12-31T08:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "9012c869129f",
+    "competitor": "Unknown",
+    "title": "Tender conference: Significant interest in the ship tunnel - Kystverket",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQUGlrS0pXeFlBZ0xNTDVhcGRMNEo1X01nMkNUWGx5dmhIMG9DNmZfV3lXM3Q2VjNMLVh2Yk42bmNrbVgxY0VZVDV3bU9UQnZYeUZCS3VqbzBjaUY4c0pYRE1ZZDlrSXA3WnhIS1hIWHhwal9UODVGdE01eFBTQWxHdmlCb1JqcEtVcWNJV0ZrR201eTVSU0N3bG9CbzZMUQ?oc=5\" target=\"_blank\">Tender conference: Significant interest in the ship tunnel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kystverket</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUGlrS0pXeFlBZ0xNTDVhcGRMNEo1X01nMkNUWGx5dmhIMG9DNmZfV3lXM3Q2VjNMLVh2Yk42bmNrbVgxY0VZVDV3bU9UQnZYeUZCS3VqbzBjaUY4c0pYRE1ZZDlrSXA3WnhIS1hIWHhwal9UODVGdE01eFBTQWxHdmlCb1JqcEtVcWNJV0ZrR201eTVSU0N3bG9CbzZMUQ",
+    "date": "2024-12-19T08:00:00+00:00",
+    "tags": [
+      "E-bidding",
+      "Announcement"
+    ],
+    "impact_score": 0.7,
+    "severity": "info"
+  },
+  {
+    "id": "d46c89f14b73",
+    "competitor": "ISNetworld",
+    "title": "Hydro Ottawa Celebrates 10-Year Partnership with ISN\u00ae to Drive Contractor Safety and Compliance - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWDVVLUNiR1RMamdUNXRxVy1wVzZZcWJGeXp1M0RZRWVxSXFuSmc0TUFZMTBPZnBSQTVCckJodE5qT3ZsckdjTTJJdjdzaEtXWGFKUld6NVJtVnVfOGR1Y3FWWTBWX3lxUFBHbXdFSGU1QnRuMjZNRWFVTEJzNjFqQW9NSWgweG1feE1mVkp3UDBMR3RMRTN5TENrb3UzbnVDUG5FNlA3cG9vTVR1VWhhQmdYU01TYkFfNmttbWFJQUZYZ3I4SkNQeHNjWUpuS2lGLTVUT3BwWVZFX2lTcGY3Ui1RTThEZw?oc=5\" target=\"_blank\">Hydro Ottawa Celebrates 10-Year Partnership with ISN\u00ae to Drive Contractor Safety and Compliance</a>&nbsp;&nbsp;<font ",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWDVVLUNiR1RMamdUNXRxVy1wVzZZcWJGeXp1M0RZRWVxSXFuSmc0TUFZMTBPZnBSQTVCckJodE5qT3ZsckdjTTJJdjdzaEtXWGFKUld6NVJtVnVfOGR1Y3FWWTBWX3lxUFBHbXdFSGU1QnRuMjZNRWFVTEJzNjFqQW9NSWgweG1feE1mVkp3UDBMR3RMRTN5TENrb3UzbnVDUG5FNlA3cG9vTVR1VWhhQmdYU01TYkFfNmttbWFJQUZYZ3I4SkNQeHNjWUpuS2lGLTVUT3BwWVZFX2lTcGY3Ui1RTThEZw",
+    "date": "2024-12-17T08:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "ab7765be3bdc",
+    "competitor": "ISNetworld",
+    "title": "ISNetworld\u00ae Contributes to Enhanced Contractor Safety at Mondi Jackson - FinancialContent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQlN4N0ZOblBwRTMzWHJQb0RmdlBDUXFhTW1MZzZRUXBuUmJsSTU5S0VUWXdrZXp2bktVMlJrZm1hMHp6NVpueHdjVHdIRVhTMUpmYVVWVHpRclNhbjh0eHUxWlVLb3NxVE1QcGVrNVVIQ3RLSGN6ZjFQaVlwbUh3X2hvQ2d3MGdhQmR0T1RvVVQ0NmJzSGc3dG9yekkwZndzQlFSZ2toYy1CY21yQncwakNsNWZhS09tbFNWZW9OY1lsTmRxRXJpcDZiYzBvc2daUXc1NG1GNlJFU1BsZ3FGdkdVcGtlcE43QXByMHhB?oc=5\" target=\"_blank\">ISNetworld\u00ae Contributes to Enhanced Contractor Safety at Mondi Jackson</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQlN4N0ZOblBwRTMzWHJQb0RmdlBDUXFhTW1MZzZRUXBuUmJsSTU5S0VUWXdrZXp2bktVMlJrZm1hMHp6NVpueHdjVHdIRVhTMUpmYVVWVHpRclNhbjh0eHUxWlVLb3NxVE1QcGVrNVVIQ3RLSGN6ZjFQaVlwbUh3X2hvQ2d3MGdhQmR0T1RvVVQ0NmJzSGc3dG9yekkwZndzQlFSZ2toYy1CY21yQncwakNsNWZhS09tbFNWZW9OY1lsTmRxRXJpcDZiYzBvc2daUXc1NG1GNlJFU1BsZ3FGdkdVcGtlcE43QXByMHhB",
+    "date": "2024-12-10T08:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "359004b31597",
+    "competitor": "ISNetworld",
+    "title": "Mondel\u0113z Global LLC Partners with ISN\u00ae to Achieve Best-in-Class Contractor Management - FinancialContent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNbGpmQVBfUVBsQlpNeXNscmE2Y0x2Q2ZaSkJpY1BOV25NLVpKd0JFU2RHVXNHNVNTQXFkcUJtVUdSTFlJTnhyc3YxYndrVnRNRXVQM09LTV9XZlFGRnhQaDh3OTRJUkw3Z2hBSjZHa000ZWJ4WXRqWWs5cDh1NGNaYjdJSTFoeFdrSzBpd0Nsemx0OVBTUmFMOGYzUm1sZlBod2hUbHd4Y2dES3haYWN6S09uUlR1Vm43R0dFWWZsWXFKc2pZYjdIOHhxMHJBZmM3aW96RlY0b0M0SmhCSlNjQkU1bmJaa2lacHNTVkVyZlZ0WDRKQjNUcy01V0ZtMk52NmxSRVFtbXowMDJIcE9FU1Jn?oc=5\" target=\"_blank\">Mondel\u0113z Global LLC Partners with ISN\u00ae to Achieve Best-in-C",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbGpmQVBfUVBsQlpNeXNscmE2Y0x2Q2ZaSkJpY1BOV25NLVpKd0JFU2RHVXNHNVNTQXFkcUJtVUdSTFlJTnhyc3YxYndrVnRNRXVQM09LTV9XZlFGRnhQaDh3OTRJUkw3Z2hBSjZHa000ZWJ4WXRqWWs5cDh1NGNaYjdJSTFoeFdrSzBpd0Nsemx0OVBTUmFMOGYzUm1sZlBod2hUbHd4Y2dES3haYWN6S09uUlR1Vm43R0dFWWZsWXFKc2pZYjdIOHhxMHJBZmM3aW96RlY0b0M0SmhCSlNjQkU1bmJaa2lacHNTVkVyZlZ0WDRKQjNUcy01V0ZtMk52NmxSRVFtbXowMDJIcE9FU1Jn",
+    "date": "2024-12-09T08:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "aca4383362dd",
+    "competitor": "ISNetworld",
+    "title": "Texas EPCM Partners with ISN\u00ae to Enhance Subcontractor Management and Safety Practices - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQbmpSc2xacHZvYVpNWm04XzVtZ0tia1RoSXZtSThKcFByWkFsSW43bTVWbUNhbk81ZVY1ZUpwS2k1SE9FM3ItcmJXeFJkWkNRLTU4eGZia1hlTGFvX1lxVnlVOTd0Q2lTWVotcmpwbHZXZTM5WHd5aE5TT0Y1V3BXYUtjZw?oc=5\" target=\"_blank\">Texas EPCM Partners with ISN\u00ae to Enhance Subcontractor Management and Safety Practices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbmpSc2xacHZvYVpNWm04XzVtZ0tia1RoSXZtSThKcFByWkFsSW43bTVWbUNhbk81ZVY1ZUpwS2k1SE9FM3ItcmJXeFJkWkNRLTU4eGZia1hlTGFvX1lxVnlVOTd0Q2lTWVotcmpwbHZXZTM5WHd5aE5TT0Y1V3BXYUtjZw",
+    "date": "2024-11-20T08:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "011a3b0e1f00",
+    "competitor": "ISNetworld",
+    "title": "ISN\u00ae Launches Industry-First Build-and-Deliver Training Tool for Contractors - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOWi01b1Y2ZnZuS2tCcll6RUFSQzZ0YVllUDYyUG9PN2dRUzNtdFpQN2RWSXNwUHJpOHpvb05vRmNrblFjWmpPck9hZ0ZzOU1KQzFOdlRDMTVzc3A2LWE3ZkhhMjR0UWtjdWZSSTluTG5Tcy15dTZCanY2cGhiWFI1VWdnamJCd0FUcFVkRjhYTHJPQ2NBbTVUZ2lkclAwelRFYVJJU01RanpURXN4bW41a29zTFZ1QnhYOUY3TU8zYTZlZGYwZHJaTjVVT20?oc=5\" target=\"_blank\">ISN\u00ae Launches Industry-First Build-and-Deliver Training Tool for Contractors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWi01b1Y2ZnZuS2tCcll6RUFSQzZ0YVllUDYyUG9PN2dRUzNtdFpQN2RWSXNwUHJpOHpvb05vRmNrblFjWmpPck9hZ0ZzOU1KQzFOdlRDMTVzc3A2LWE3ZkhhMjR0UWtjdWZSSTluTG5Tcy15dTZCanY2cGhiWFI1VWdnamJCd0FUcFVkRjhYTHJPQ2NBbTVUZ2lkclAwelRFYVJJU01RanpURXN4bW41a29zTFZ1QnhYOUY3TU8zYTZlZGYwZHJaTjVVT20",
+    "date": "2024-11-19T08:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "3ffc3c3b572f",
+    "competitor": "ISNetworld",
+    "title": "EET Fuels Selects ISNetworld\u00ae for Contractor Management - FinancialContent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdnBOeGdQMWpKRkVxYXBqSUlYa1ZQdFpwTFR0R2Q0YWYtVUJrWFZfSDZlSWRBNm9BWWxVWEgycWVRS05tME1UbUlCUUZJeExRYVRSUzY0M0U5ZkoyLTRkZXpFZWNpRWdDeVFRZWdXRTR4RGgwa0hIS0IyTTBzVWxTeGZUNC1jVWFCdXRxcEhwNDlBS3Q1d0RSaVVjeDRUTmRJMk52THdFQm1tSmVQeXozWmF0bjY5OGZFd0hlM3RuR0lsMGJyX3hBcG9USUhsSV9QR2JkNDlOajlKUQ?oc=5\" target=\"_blank\">EET Fuels Selects ISNetworld\u00ae for Contractor Management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinancialContent</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdnBOeGdQMWpKRkVxYXBqSUlYa1ZQdFpwTFR0R2Q0YWYtVUJrWFZfSDZlSWRBNm9BWWxVWEgycWVRS05tME1UbUlCUUZJeExRYVRSUzY0M0U5ZkoyLTRkZXpFZWNpRWdDeVFRZWdXRTR4RGgwa0hIS0IyTTBzVWxTeGZUNC1jVWFCdXRxcEhwNDlBS3Q1d0RSaVVjeDRUTmRJMk52THdFQm1tSmVQeXozWmF0bjY5OGZFd0hlM3RuR0lsMGJyX3hBcG9USUhsSV9QR2JkNDlOajlKUQ",
+    "date": "2024-11-19T08:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "bc014628bd57",
+    "competitor": "Unknown",
+    "title": "Miele Duoflex HX1 Review - RTINGS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HS1BPMURhWnpnREpqREU1MGtYRlV5amN2TUNLbUxnZ1dJN1F4WC1SSExUbm81bVM1eEYwejBsX2V0VVpRdGlseEx4VFAxNlhhTGhNYUVESEJxX0JGVlNJMk1vRkF5QQ?oc=5\" target=\"_blank\">Miele Duoflex HX1 Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTINGS.com</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HS1BPMURhWnpnREpqREU1MGtYRlV5amN2TUNLbUxnZ1dJN1F4WC1SSExUbm81bVM1eEYwejBsX2V0VVpRdGlseEx4VFAxNlhhTGhNYUVESEJxX0JGVlNJMk1vRkF5QQ",
+    "date": "2024-11-15T08:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "d14d2e117d7a",
+    "competitor": "ISNetworld",
+    "title": "John Soules Foods Selects ISNetworld\u00ae to Help Streamline Contractor Management - FinancialContent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdk5jRllzZEVBQkNHcU1kTm9LbzNWdktPdzFCYzNoNUR5TFdWMmtwbnFnVi1Ma0pKeEl4amF6NHRoM3ladFJ4LXBiQXFUazg2dFM4OElpOEExOXhSYmtnVDd0RDFWOHBrc2dmUnZVVzlYOGlNTlpIbzZGOVJaUXZiRDV3MHItYllmcDBTRFZhbHVjTkVDNmhZUkY0VXpnVldfVHotdDNWWUV2cFhYMWYxY051NVpOZlpqUy15NU1qZ1lPTWxqc1ZYVVNGaFNIUHdXY2ltd3lTX0dfc1h2Y2Z0S2s4YVIyY1RudTdQbW8yUU43cmdhRFcwcw?oc=5\" target=\"_blank\">John Soules Foods Selects ISNetworld\u00ae to Help Streamline Contractor Management</a>&nbsp;&nbsp",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdk5jRllzZEVBQkNHcU1kTm9LbzNWdktPdzFCYzNoNUR5TFdWMmtwbnFnVi1Ma0pKeEl4amF6NHRoM3ladFJ4LXBiQXFUazg2dFM4OElpOEExOXhSYmtnVDd0RDFWOHBrc2dmUnZVVzlYOGlNTlpIbzZGOVJaUXZiRDV3MHItYllmcDBTRFZhbHVjTkVDNmhZUkY0VXpnVldfVHotdDNWWUV2cFhYMWYxY051NVpOZlpqUy15NU1qZ1lPTWxqc1ZYVVNGaFNIUHdXY2ltd3lTX0dfc1h2Y2Z0S2s4YVIyY1RudTdQbW8yUU43cmdhRFcwcw",
+    "date": "2024-11-12T08:00:00+00:00",
+    "tags": [
+      "AI",
+      "Announcement"
+    ],
+    "impact_score": 0.75,
+    "severity": "info"
+  },
+  {
+    "id": "b9808eee2a95",
+    "competitor": "Unknown",
+    "title": "Highwire Introduces Subcontractor Prequalification Software - For Construction Pros",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxONVRMLVRWaVgybmtLY0JOU3ZybE9hSnQ5UUtCNUtMeEFkb2pCRDNBY2RuOExQd2hQZmM0TjQydVVtX0NXQVFTWmx3WDF5eTZaZ1pYVGJCZnI3WVRwNUk0Q2M5RWNnNFYyUVhiT3J3NVo0b0JNeFhpYmdhcWZ3cURramVIeVN5enVrdDA0YzhFelVZTFM0cnR2R1U3djNxQjJiRmtUTnA3Yzhkc2lBbnkzQXhQTFNxUGxHN3Y3c2JuTllQa2hNZmdFR2RacWVNQ0YwMFh6WjZkWFFOWTJNeG9udHp5bkI?oc=5\" target=\"_blank\">Highwire Introduces Subcontractor Prequalification Software</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">For Construction Pros</",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONVRMLVRWaVgybmtLY0JOU3ZybE9hSnQ5UUtCNUtMeEFkb2pCRDNBY2RuOExQd2hQZmM0TjQydVVtX0NXQVFTWmx3WDF5eTZaZ1pYVGJCZnI3WVRwNUk0Q2M5RWNnNFYyUVhiT3J3NVo0b0JNeFhpYmdhcWZ3cURramVIeVN5enVrdDA0YzhFelVZTFM0cnR2R1U3djNxQjJiRmtUTnA3Yzhkc2lBbnkzQXhQTFNxUGxHN3Y3c2JuTllQa2hNZmdFR2RacWVNQ0YwMFh6WjZkWFFOWTJNeG9udHp5bkI",
+    "date": "2024-11-04T16:41:37+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "ec2cde6802a7",
+    "competitor": "ISNetworld",
+    "title": "Clarios Partners with ISN\u00ae to Enhance Contractor Management in Mexico - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZF9lRUtaa1lyd1g1R2hSdE1TOWhSWUFvTTFRRFhNaVBGOWJkQkF0ZWhmX2hMVjVRSTUxZXJYM3FOTVQxRGpVTzE2UnpodmNvNW4tUjJIWGZVZnhYMjhBdUUxOXFmRmdHNmRsWlg1WWVzT05XUDJtS2Rma0hTUldWWEc3VzA5WEhOSmdaNGdRbjhmdEtjaE9BNUFkR2JoZS1uUDlyTXpzY2h4bnYtcnczOW05R3lsbFdDVmpielVlVU1HaWM?oc=5\" target=\"_blank\">Clarios Partners with ISN\u00ae to Enhance Contractor Management in Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZF9lRUtaa1lyd1g1R2hSdE1TOWhSWUFvTTFRRFhNaVBGOWJkQkF0ZWhmX2hMVjVRSTUxZXJYM3FOTVQxRGpVTzE2UnpodmNvNW4tUjJIWGZVZnhYMjhBdUUxOXFmRmdHNmRsWlg1WWVzT05XUDJtS2Rma0hTUldWWEc3VzA5WEhOSmdaNGdRbjhmdEtjaE9BNUFkR2JoZS1uUDlyTXpzY2h4bnYtcnczOW05R3lsbFdDVmpielVlVU1HaWM",
+    "date": "2024-10-31T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "ca50c2e46cc9",
+    "competitor": "ISNetworld",
+    "title": "Calibrant Energy Selects ISNetworld\u00ae to Help Strengthen Contractor Management and Safety Standards - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPUjNwU3B6Y0xEU0p2YXN5bHBLUHVyOFJPMnhhYXFYcGJXZTNPNjJNWkZaVGduM2xmTW5BajFwMlUwYjFFb3RLbGdXdHRXaGRGTmtRdnduTU03OXJiMm1zUHlfLXptWFlveW9SaDhweUVKV3VycHZSTVBWZ1Z1TTV0a2JuR3J3R3E4SG5EdEJ5OA?oc=5\" target=\"_blank\">Calibrant Energy Selects ISNetworld\u00ae to Help Strengthen Contractor Management and Safety Standards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUjNwU3B6Y0xEU0p2YXN5bHBLUHVyOFJPMnhhYXFYcGJXZTNPNjJNWkZaVGduM2xmTW5BajFwMlUwYjFFb3RLbGdXdHRXaGRGTmtRdnduTU03OXJiMm1zUHlfLXptWFlveW9SaDhweUVKV3VycHZSTVBWZ1Z1TTV0a2JuR3J3R3E4SG5EdEJ5OA",
+    "date": "2024-10-29T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "1c40e335f5be",
+    "competitor": "Avetta",
+    "title": "Avetta And Energy Worldnet Sign Partnership To Transform Operator Qualification Compliance Management - Pulse 2.0",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNSk51TVM5bGdaVmJXZGl4ZkdYMjJVd2hZZ001MTNsUVBHVlZpWkwyY25MaWVXTm05RDh0ckVfUl9XYmRMNjBpODBQUzdsdFVEMHpFZ1VIUjFHMG1Mdk0xbGROQzJoUWVmUmh1LXZra181Q1lwdGVMWEduTlpaeDIwVTJpOUx5SUpaX0YxVnlmcnVxMWEzWnFORWFhcUc3TU4zMFpGd2JhQ0xqY0R2WFltWURwNm5CbUpVeHNYQ0V30gHDAUFVX3lxTFBGN1Q0YUh5ekprU1E5UnhLc0FOU3pnNVZSOE5UVHRISHBFRU51VWRxNlJFMWVJWmU2Y3JzY2dMaVpub2hhWS1tb3dqcVhCQ3VySTd3ZmZvVEItbC1sYktxY0F5Z2VBNnFnRGJhYWludjR3dER0UG9CVlJudW1JSVl4LXFSQmVVQjlsdUgtbH",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSk51TVM5bGdaVmJXZGl4ZkdYMjJVd2hZZ001MTNsUVBHVlZpWkwyY25MaWVXTm05RDh0ckVfUl9XYmRMNjBpODBQUzdsdFVEMHpFZ1VIUjFHMG1Mdk0xbGROQzJoUWVmUmh1LXZra181Q1lwdGVMWEduTlpaeDIwVTJpOUx5SUpaX0YxVnlmcnVxMWEzWnFORWFhcUc3TU4zMFpGd2JhQ0xqY0R2WFltWURwNm5CbUpVeHNYQ0V30gHDAUFVX3lxTFBGN1Q0YUh5ekprU1E5UnhLc0FOU3pnNVZSOE5UVHRISHBFRU51VWRxNlJFMWVJWmU2Y3JzY2dMaVpub2hhWS1tb3dqcVhCQ3VySTd3ZmZvVEItbC1sYktxY0F5Z2VBNnFnRGJhYWludjR3dER0UG9CVlJudW1JSVl4LXFSQmVVQjlsdUgtbHlmQnFoZ0JVM0VBOVNKeVM5SVNqZW0za0RidHRIZW01Q3FxcUphZzhwaEpTUWRYaUlSbl9LSQ",
+    "date": "2024-10-16T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
+  },
+  {
+    "id": "b93b0c3ee32c",
+    "competitor": "Unknown",
+    "title": "Highwire Advances Construction Subcontractor Risk Management with a New Prequalification Solution - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWl91TU1EemJ5R19jelkzLXFBOVRta3FMTi1VNGxJT2ViUzRzZ29HcW94S2FSTjlhYW14bTJKUENzVmxaMF9CWi1rTVlWemc4VWYwaDhtNmlfc3NoOTctRmFqQ2F0NTJLekwwNFBDNGZLajAyLVU0YU5za2hscnBWTFVsTXBvNVB5N3lUMVdrRlVfVFZkTUhnaGVjUzZwMENlSUJmTDEzdGJZMWVMVklGeEswSlBGQS1rOW5MeGVGUE1hYjJBa044Z0gzaFNWOXFES0ZBSHJOYlRBT1U3YUZZUGt2cFQxUG1m?oc=5\" target=\"_blank\">Highwire Advances Construction Subcontractor Risk Management with a New Prequalification Solution</a>&nbsp;&nbsp;<f",
+    "sourceName": "news.google.com",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWl91TU1EemJ5R19jelkzLXFBOVRta3FMTi1VNGxJT2ViUzRzZ29HcW94S2FSTjlhYW14bTJKUENzVmxaMF9CWi1rTVlWemc4VWYwaDhtNmlfc3NoOTctRmFqQ2F0NTJLekwwNFBDNGZLajAyLVU0YU5za2hscnBWTFVsTXBvNVB5N3lUMVdrRlVfVFZkTUhnaGVjUzZwMENlSUJmTDEzdGJZMWVMVklGeEswSlBGQS1rOW5MeGVGUE1hYjJBa044Z0gzaFNWOXFES0ZBSHJOYlRBT1U3YUZZUGt2cFQxUG1m",
+    "date": "2024-10-16T07:00:00+00:00",
+    "tags": [
+      "Announcement"
+    ],
+    "impact_score": 0.5,
+    "severity": "info"
   }
 ]
