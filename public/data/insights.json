@@ -1,0 +1,18 @@
+[
+  {
+    "id": "seed-1",
+    "competitor": "ISNetworld",
+    "title": "ISN announces enhanced Workers' Comp analytics for CA/AU",
+    "summary": "Adds exemption tracking, historical WC data, and improved reporting; shifts customer conversations to trend analysis over doc uploads.",
+    "sourceName": "Business Wire",
+    "sourceUrl": "https://www.businesswire.com/newsroom",
+    "date": "2025-10-14T12:00:00Z",
+    "tags": [
+      "Product",
+      "Workers' Comp",
+      "Analytics"
+    ],
+    "impact_score": 0.78,
+    "severity": "watch"
+  }
+]
