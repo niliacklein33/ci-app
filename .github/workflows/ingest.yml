@@ -20,6 +20,11 @@ jobs:
       - run: pip install feedparser readability-lxml beautifulsoup4 requests python-dateutil
       - name: Crawl sources
         run: python scripts/ingest.py
+      - name: Show sample of insights.json
+        run: |
+          wc -c public/data/insights.json || true
+          head -n 120 public/data/insights.json || true
+
       - name: Commit updated insights
         run: |
           git config user.name "ci-bot"
